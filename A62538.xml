@@ -1,0 +1,669 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lasher proved liar, or, The beadles lash laid open in a short reply to a slight pamphlet ushered into the world with the scurrilous title of A lash for a lyar, discovering the vanity of William Jennison, with his ungodly abuse of Thomas Tillam, minister of Christs Gospell.</title>
+            <author>Tillam, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62538</idno>
+            <idno type="STC">Wing T1165A</idno>
+            <idno type="STC">ESTC R27149</idno>
+            <idno type="EEBO-CITATION">09677527</idno>
+            <idno type="OCLC">ocm 09677527</idno>
+            <idno type="VID">43962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1343:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lasher proved liar, or, The beadles lash laid open in a short reply to a slight pamphlet ushered into the world with the scurrilous title of A lash for a lyar, discovering the vanity of William Jennison, with his ungodly abuse of Thomas Tillam, minister of Christs Gospell.</title>
+                  <author>Tillam, Thomas.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jennison, William, 17th cent. --  A lash for a lyar.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:43962:1"/>
+            <pb n="1" facs="tcp:43962:1"/>
+            <head>THE <hi>LASHER</hi> proved LIAR. OR, The Beadles LASH laid open.</head>
+            <head type="sub">In a ſhort Reply to a ſlight Pamphlet uſhered into the world with the ſcurrilous Title of, <hi>A Laſh for a LYAR,</hi> diſcovering the vanity of <hi>William Jenniſon,</hi> with his un<g ref="char:EOLhyphen"/>godly abuſe of <hi>Thomas Tillam,</hi> Miniſter of Chriſts Goſpell.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Know 'tis no new thing for Profeſſors to (<hi>Laſh</hi> or) ſmite with the tongue,
+<note place="margin">Jer. 18.81.</note> and deviſe devices againſt Gods Miniſters: But wo to that evill ſervant who ſhall be found (<hi>laſhing</hi> or) ſmiting his fellow-ſervants, like this abuſive Beadle,
+<note place="margin">Mat. 24.48.</note> much fitter to converſe with thoſe Salvages or wilde Hea<g ref="char:EOLhyphen"/>thens in <hi>America</hi> (from whence he came) then with any ci<g ref="char:EOLhyphen"/>vill man.
+<note place="margin">Pſal. 20.3, 4.</note>
+            </p>
+            <p>It is my mercy that the Litigious Title of my ſordid ad<g ref="char:EOLhyphen"/>verſary hath rendred the Book contemptible with men of ingenuous ſpirits (even of his own opinion) and no leſſe my miſery (in bandying with my Beadles Laſh) to be led to a Language which I loath; for whiles I would be ſerious, I ſee my ſelfe neceſſitated to <hi>anſwer (a foole according to his folly,</hi>
+               <note place="margin">Prey. 15.4, 5. Iſa. 37.22. 2 Tim. 3.8.</note> and warrantably allowed to <hi>laugh rayling</hi> Rabſhakeh <hi>to ſcorn,</hi> yea and to <hi>mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the mans <hi>folly manifeſt to all men.</hi> I cannot juſtly be cenſured for terming my Laſher a Beadle, ſince his own ſinnious Title Page entitles him to the office which he might
+<pb n="2" facs="tcp:43962:2"/>eaſily learn in <hi>New-England,</hi> whoſe Magiſtrates (about ſeven years ſince) moſt barbarouſly condemned Chriſts ſervants to be <hi>laſht</hi> at the common whipping-poſt, for profeſſing the ſame Goſpel-baptiſme which I practice, and my Beadle op<g ref="char:EOLhyphen"/>poſeth.</p>
+            <p>The perſons thus perſecuted were Mr. <hi>John Clarke</hi> (the preſent Miniſter of the Baptized Church at <hi>Worceſter</hi>-houſe in <hi>London</hi>) and Mr. <hi>Obadiah Holms,</hi> with <hi>John Grandall,</hi> &amp;c. And though Mr. <hi>Clarks</hi> friends ſecretly purchaſed his free<g ref="char:EOLhyphen"/>dome of the mercenary Magiſtrates (as the Pope parts with his pardons) for money, yet Mr. <hi>Holms</hi> could not conſent to the payment of their impoſed thirty pound fine, ſo that he was moſt lamentably laſhed on his naked body by the Beadle of <hi>Byſton</hi>'s who ſeverall times ſpitting on his hand, laid on with all his ſtrength. It would greatly affect a gra<g ref="char:EOLhyphen"/>cious heart to heare the ſad ſtory (now lying in print
+<note n="*" place="margin">Entituled ill news from <hi>New-England.</hi>
+               </note> be<g ref="char:EOLhyphen"/>fore me) how the enraged blood-thirſty Governour told Mr. <hi>Clarke, he had deſerved death for denying Infant-baptiſme:</hi> And how Mr. <hi>Wilſon</hi> (Paſtor of <hi>Boſton</hi> Church) did ſtrike Mr. <hi>Holmes</hi> before the Judgement-ſeat, ſaying, <hi>The curſe of God or Jeſus go with thee.</hi>
+            </p>
+            <p>Here's a ſad account of <hi>New-England</hi> courteſie (who were themſelves but lately under Prelaticall perſecution:) And why ſhould I look for better from my Beadle, then to bring his Laſh along with him? that he may make a diſplay of a <hi>New-England</hi> ſpirit, in attempting that with his tongue and pen, from which (at preſent) his hands are tyed.</p>
+            <p>Firſt, The ſordid title of his <hi>Laſh</hi> publiſheth his own pu<g ref="char:EOLhyphen"/>niſhment: If it be a puniſhment to be often <hi>plucked from his dwelling place,</hi>
+               <note place="margin">Pſalm 52.5.</note> which he ſubtlely endeavoured to avoid, when he was pluck'd from his dwelling-place at <hi>Colcheſter</hi> fiege, by his ſhameleſſe ſeeking for ſome hundreds of pounds amongſt the ſufferers, deſiring our Elder (who aſ<g ref="char:EOLhyphen"/>ſiſted him in ſecuring his caſh) to keep his counſell, ſaying, <hi>He would put in for enough, ſince twas like he ſhould have little e<g ref="char:EOLhyphen"/>nough.</hi>
+            </p>
+            <p>In his ſlander of me as <hi>a common ſlanderer of ſo many as are contrary to my opinions,</hi>
+               <note place="margin">
+                  <hi>Laſh.</hi> pag. 46.</note> he confutes himſelfe by his own con<g ref="char:EOLhyphen"/>feſſion, <hi>That I juſtifie his reprover,</hi> who was the Town-Lectu<g ref="char:EOLhyphen"/>rer,
+<pb n="3" facs="tcp:43962:2"/>and one of thoſe many that oppoſe my opinions: So are their preſent Mayor and Magiſtrates (for not many wiſe, mighty or noble are called) as alſo the people termed the Separation; all of them contrary to my opinions: And if I be not a common ſlanderer of all theſe, then my <hi>Laſher</hi> himſelfe is a ſlanderer. Yea, ſuch a ſlanderer ſhall I prove him, as will blaſt the vain boaſting of his Factor <hi>Burges,</hi> in applauding his Pamphlet for ſober and ſerious, without railing or ſlandering, juſt like the late vaunts of his neigh<g ref="char:EOLhyphen"/>bour <hi>Luſkin</hi> (now lying in his grave) whoſe ſale of the fa<g ref="char:EOLhyphen"/>therleſſe Libel (by my ſpeedy Reply) was daſht as it were in a day.</p>
+            <p>But how ſober my Laſher is, may appear by a taſte of his common ſlanders, ſpeciall abuſes, groſſe abſurdities, ma<g ref="char:EOLhyphen"/>nifeſt contradictions, and notorious falſhood.</p>
+            <div type="section">
+               <head>1. <hi>A touch of his common Slanders.</hi>
+               </head>
+               <p>THe two grand opinions of Sabbath and Baptiſm (which lye under his Laſh) will clearly diſcover him the com<g ref="char:EOLhyphen"/>mon Slanderer of ſo many as oppoſe his opinions.
+<note place="margin">
+                     <hi>Laſh,</hi> paeg 1. &amp; 38.</note>
+               </p>
+               <p>For firſt, he ſo deifies his firſt-day-Sabbath, that who ever <hi>ſtrikes at it,</hi> he publiquely proclaims and reproaches them all for <hi>Impoſtors, and the Devills inſtruments,</hi> which ſure<g ref="char:EOLhyphen"/>ly are ſlanders ſufficient. He ſpares none, from ancient <hi>Ori<g ref="char:EOLhyphen"/>gen</hi> to this inſtant; but all <hi>both former and later</hi> (if they either deny a Sabbath, or aſſert every day a Sabbath, or ſancti<g ref="char:EOLhyphen"/>fie Jehovah's ſeventh-day Sabbath) all are branded by my Beadle. The many thouſands in Court, City, Countrey, Army, whether Notioniſts, Baptiſts, Independents, <hi>&amp;c.</hi> (though dark in the ſeventh-day Sabbath, yet) if they diſ<g ref="char:EOLhyphen"/>own his firſt day Sabbath, muſt all taſt of his Laſh: So that we are put upon this neceſſity, either to condemn them all, <hi>both former and later for Impoſtors, and the Devils inſtruments,</hi> or elſe to record <hi>our Laſher for the common Slanderer.</hi>
+               </p>
+               <p>Which is further confirmed by his oppoſition of Goſpel-Baptiſme, wherein he confidently condemns all of this o<g ref="char:EOLhyphen"/>pinion
+<pb n="4" facs="tcp:43962:3"/>by branding <hi>Anabaptiſm</hi> it ſelfe (as he termes it) <hi>for the main Engine of the Jeſuites and their Factors to overthrow Pro<g ref="char:EOLhyphen"/>teſtantiſme.</hi>
+               </p>
+               <p>Why,
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 72.</note> what a notable learner is our Laſher? who at one Sermon at <hi>Peters</hi> (hearing the <hi>Anabaptiſts term'd the Devills Factors</hi>) commenceth Doctor in the ſame Dialect: But be<g ref="char:EOLhyphen"/>lieve it, if the Preſident of the Privy-Councel, and ſo ma<g ref="char:EOLhyphen"/>ny perſons of this opinion in high places be (indeed) enga<g ref="char:EOLhyphen"/>ged in the <hi>main Engine of the Jeſuites and their Factors to over<g ref="char:EOLhyphen"/>throw Proteſtantiſm,</hi> 'tis time for our Beadle and his bre<g ref="char:EOLhyphen"/>thren to look about them. And if this be not ſo, I am ſure the Laſher is a common Slanderer of ſuch as oppoſe his opinion.</p>
+            </div>
+            <div type="section">
+               <head>The Beadles ſpeciall AB<g ref="char:V">Ʋ</g>SES.</head>
+               <p>WHen his Laſh comes to my loyns, he layes about him like the Beadle of <hi>Boſton,</hi> and as buſily as old <hi>Burges,</hi> when the crabbed Caitiffe is cruelly ſcourging his fellow-creatures called <hi>Quakers,</hi> upon the account of their conſcience: And yet we muſt not ſay here's any thing but what's ſerious and ſober; not one bit of bitterneſſe, not a rag of rayling, unleſſe we ſhould cenſure his lovers as lyars; wherefore to ſecure their credit, it ſeems I muſt grant;</p>
+               <p>Firſt,
+<note place="margin">
+                     <hi>Laſh.</hi> page 1.</note> That he kindly <hi>unchriſtens me</hi> in the firſt encounter, and continues the ſame courteous complement in ſeverall lines of his Laſh. With the ſame piety he paints me to the world with <hi>a loathſome ſpirit of Apoſtacy</hi> for oppoſing (Pariſh Hirelings) ſet maintenance;
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 26.</note> yea <hi>full as bad as</hi> Julian (that deſperate Apoſtate) for <hi>reviving Jehovah's Sabbath.</hi> And to expreſſe the pinacle of his piety, he appoints ſundry Pro<g ref="char:EOLhyphen"/>feſſors (labouring under the like loathſome diſeaſe) to keep me company.</p>
+               <p>How comfortably he courts me as one <hi>eudowed with cun<g ref="char:EOLhyphen"/>ning craftineſſe,
+<note place="margin">
+                        <hi>Laſh.</hi> p. 28:</note> labouring to beguile and deceive my Reader</hi> (not onely beguiling and deceiving, but labouring ſo to do.</p>
+               <p>With like humility he heaves me up as <hi>a man of a horrible
+<note place="margin">
+                        <hi>Laſh.</hi> pag. 30.</note>
+                     <pb n="5" facs="tcp:43962:3"/>ſpirit of contradiction and deluſien;</hi> moſt ſober and ſerious ſalutes unleſſe his Factors ſay falſly.</p>
+               <p>I cannot ſay 'tis unſuitable to his ſincerity to ſpread forth my praiſes as one <hi>ſo t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhly drunk with deluſions.</hi>
+                  <note place="margin">
+                     <hi>Laſh.</hi> page 37.</note>
+               </p>
+               <p>See how lovingly he lifts me <hi>out of the ſmoak of the bottomleſſe pit,
+<note place="margin">
+                        <hi>Laſh,</hi> page 38.</note> where he found me ſmothered</hi> (if he ſpeaks truth) and com<g ref="char:EOLhyphen"/>mends me <hi>for marvellous ignorance,</hi> which is more then every one will do.</p>
+               <p>Is it not Saint-like indeed to enſhrine me (in his owne dear boſome) <hi>as falſitying and deceiving, ſeared and ſenſeleſſe?</hi>
+                  <note place="margin">
+                     <hi>Laſh.</hi> page 46.</note> And now who will ſay here's ought of bitterneſſe belched forth! But if all this be true, I may rue the time of my coming to <hi>Colcheſter;</hi> for I was then ſo far from being <hi>ſottiſh<g ref="char:EOLhyphen"/>ly drunk with deluſions, ſeared and ſenſeleſſe,</hi> that you may ſee my loving Laſher contradict all.</p>
+            </div>
+            <div type="section">
+               <head>His manifeſt Contradictions,</head>
+               <p>FOr he tells you,
+<note place="margin">
+                     <hi>Laſh.</hi> page 43.</note> That <hi>I principally bent my ſelfe in my prea<g ref="char:EOLhyphen"/>ching againſt the</hi> Quakers, <hi>who had enſnared many:</hi>
+                  <note place="margin">Page 42.</note> But yet he ſuſpects ſome deſigne: And indeed there is as good ground for it (upon our entrance both in one day) as for the meeting of <hi>Simon Magus</hi> and <hi>Simon Peter</hi> at <hi>Rome.</hi>
+                  <note place="margin">Euſeb.</note> Yet doubtleſſe the great God eminently deſigned by my reproa<g ref="char:EOLhyphen"/>ched ſelfe on the one hand, and the <hi>Quakers</hi> on the other, to pluck ſo many plumes from the Pariſh Presbyters Claſſical Cap, that the hirelings and their hackneys are become reſt<g ref="char:EOLhyphen"/>leſſe in their rage, while the doom of their <hi>jus divinum</hi> draws on apace.</p>
+               <p>For further proof of my being <hi>ſottiſhly drunke with deluſions ſeared, and ſenſeleſſe;</hi> my Laſher aſſures you,
+<note place="margin">
+                     <hi>Laſh.</hi> page 42:</note> that I <hi>diſchar<g ref="char:EOLhyphen"/>ged my ſelfe freely and fully, to the great and full ſatisfaction of thoſe that heard me.</hi> And that I <hi>gained esteem of the beſt and moſt ſound Chriſtians, who were taken with the ſtrength of my gifts, and plauſibility of my deportment.</hi> And are not theſe ſufficient ſigns of <hi>one ſmothered in the ſmoak of the bottomleſſe pit?</hi> which is a
+<pb n="6" facs="tcp:43962:4"/>puniſhment ſomewhat more painful, and leſs profitable then the fume of a Tobacco-ſhop.</p>
+               <p>The laſt evidence (brought by my Beadle) of my being <hi>ſottiſhly drunk with deluſions,</hi>
+                  <note place="margin">
+                     <hi>Laſh,</hi> pag. 43.</note> may be my renewed call to the high employment of preaching; For he ſayes, <hi>my Labours were again deſired.</hi> But was not my Laſher himſelf ſmothered in ſmoak, and ſottiſhly drunk with deluſions, to be one that deſired my Labours, after he knew my opinion in Bap<g ref="char:EOLhyphen"/>tiſm? and I had printed it, with my owning of the Sabbath in my Book of laying on of hands? which he eſteems the Devils doctrine, and Jeſuites deſigne. But here's more then enough for a diſcovery of his Contradictions. I ſhall pro<g ref="char:EOLhyphen"/>ceed to a taſt of</p>
+            </div>
+            <div type="section">
+               <head>His Groſs Abſurdities.</head>
+               <p n="1">1.
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 25. &amp; 41. &amp; 33. &amp; 35.</note> HE aſſignes the begginning of his Sabbath to morning, and his morning to mid-night, and then ſends poor <hi>Iſrael</hi> to grope for Manna, and to offer ſacrifice; but if he ſay true, that his day begins with the morning, and that morning at mid-night, I am ſure his Night muſt needs begin at <hi>Noor.</hi>
+                  <note place="margin">Gen. 1.5. <hi>Ainſw.</hi> in loc.</note> Our bleſſed Creator calls the darkneſs <hi>night,</hi> and begins the day with the evening; but the preſumptuous creature, who hath no more grace then to change Jeho<g ref="char:EOLhyphen"/>vah's Sabbath, dare adventure to deſtroy the very courſe of nature,
+<note place="margin">Iſa. 5.20.</note> without dreading that doom <hi>of putting darkneſſe for light, and light for darkneſſe.</hi> Will Saints be thus decei<g ref="char:EOLhyphen"/>ved of Gods ſanctified Sabbath, by ſuch as dare aſſert the day begins at Mid-night, and Night at Noon?</p>
+               <p n="2">2 He makes no ſcruple of beginning his Firſt day-Sab<g ref="char:EOLhyphen"/>bath in his mid-night morning, and yet deems it a mar<g ref="char:EOLhyphen"/>vellous difficulty to ſet upon the true ſeventh-day-Sabbath in a cloudy evening; But if it be ſo hard to diſtinguiſh be<g ref="char:EOLhyphen"/>tween common and ſacred time in a cloudy evening, when we are generally awake, how ſhall thouſands be able to diſ<g ref="char:EOLhyphen"/>cern ſuch difference in his dark mid-night morning, when faſt aſleep.</p>
+               <p n="3">
+                  <pb n="7" facs="tcp:43962:4"/>3 But here admire with me the juſt hand of God againſt this ſubverter of his holy Sabbath, who is ſo ſmothered in abſurdities, that after ſixteen moneths deliberation, he hath yielded his whole Cauſe by this his full confeſſion;
+<note n="*" place="margin">
+                     <hi>Laſh,</hi> pa. 26.</note> 
+                  <hi>That now Chriſt being come, though the ſervices be aboliſhed, yet the day may be obſerved.</hi>
+               </p>
+               <p>Which confeſſion being diſcovered ſince his booke was printed, himſelf is ſo aſhamed of it, that he hath raced and blotted it out.</p>
+               <p>'Tis ſtrange, that after ſo long conſideration, and ſo ma<g ref="char:EOLhyphen"/>ny ſuppers for conſultation, the Laſh being lickt over and over by ſo many hirelings correction and alteration, it ſhould come forth with ſuch a clear confeſſion as aboliſheth the Ceremonies, and celebrates the royal Sabbath.</p>
+               <p n="4">4 I ſhall at preſent ceaſe from his Abſurdities,
+<note place="margin">
+                     <hi>Laſh,</hi> pag. 44.</note> with his cenſure of me as <hi>deeply drencht in little better then groſse Popery about the Sacraments.</hi> And indeed this abſurdity way well paſſe for my Laſhers Maſter-piece; for he ſayes, he found me thus drencht by this expreſſion of mine, That <hi>the outward elements of bread &amp; wine in the Lords Supper were ſpiritual things.</hi> I do not remember the expreſſion; but let's try by what Lo<g ref="char:EOLhyphen"/>gick hee'l prove me drencht in Popery; for thus he muſt argue.</p>
+               <p>The Pope affirmes the Sacramentall bread and wine to be corporal, carnal, natural things.</p>
+               <p>But <hi>Thomas Tillam</hi> hath ſaid they are ſpirituall things. Therefore <hi>Tho: Tillam</hi> is drencht in little better then groſſe Popery.</p>
+               <p>Sure the Prophet is a foole, the ſpirituall man is mad,
+<note place="margin">Hoſea 4.7.</note> and the joynt teſtimony of his nine <hi>New-England</hi> Confede<g ref="char:EOLhyphen"/>rates will not recover his credit,
+<note place="margin">
+                     <hi>Laſh,</hi> pag. 40.</note> nor ſecure him from this ſinke of abſurdities, which uſhers in his falſhood.</p>
+            </div>
+            <div type="section">
+               <head>His notorious Falſhood.
+<note place="margin">The firſt falſ<g ref="char:EOLhyphen"/>hood.</note>
+               </head>
+               <p>HIs leading ſin may be that deceitfull falſhood of his,
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 22: Rom. 2.14.15.</note> in aſſerting, <hi>That the Gentiles ſtill have the Law written in their hearts.</hi> He that dare thus adulterate Gods word, will
+<pb n="8" facs="tcp:43962:5"/>not ſtick to cenſure pure <hi>Adam</hi> of ignorance of the ſeventh-day-Sabbath,
+<note place="margin">
+                     <hi>Laſh.</hi> page 23:</note> nor ſcruple at rayling accuſations againſt Chriſts Miniſters; but new Covenant-Chriſtians know, that the Law written in the heart is their prerogative Royall, and not the words of the Law, but onely the work of the Law is found in the hearts of Heathens.</p>
+               <p>From this and the like abuſe of Scripture,
+<note place="margin">A ſecond falſ<g ref="char:EOLhyphen"/>hood.</note> he haſtens to vent his diſtempered ſpleen at me, in a ſubtle envious ſug<g ref="char:EOLhyphen"/>geſtion,
+<note place="margin">
+                     <hi>Laſh.</hi> pag 42.</note> that (at my coming to <hi>Colcheſter</hi>) <hi>I appeared neceſſi<g ref="char:EOLhyphen"/>tous;</hi> which falſhood the preſent Mayor can and will diſco<g ref="char:EOLhyphen"/>ver to ſuch as ſhall enquire, ſeeing he firſt courteouſly enter<g ref="char:EOLhyphen"/>tained, invited, and encouraged me to the work; and ſo comfortably was I accommodated by the Gentlewoman with whom I ſojourned,
+<note place="margin">Page 43.</note> that all who know it muſt cenſure it as baſeneſſe in my Beadle to <hi>upbraid me with his Table.</hi> Wherefore untill he produce ſufficient evidence of my ap<g ref="char:EOLhyphen"/>pearing neceſſitous in perſon, purſe, horſe, habit, or ſomething, I ſhall make bold to record my Laſher for the Lyar.</p>
+               <p>Who proceeds to a third,
+<note place="margin">A third falſ<g ref="char:EOLhyphen"/>hood. <hi>Laſh.</hi> pag. 48.</note> in affirming that <hi>I promiſed not to meddle with Baptiſm.</hi> And yet himſelfe and the Towne in generall are witneſſe of my publique engagement to preach the whole body of Divinity,
+<note place="margin">Heb. 6 1, 2.</note> which is impoſſible to be done without handling the foundation principles of Chriſtian Religion, whereof Baptiſm is one. And if they did deſire me to conceal it (as he aſſerts) I am ſure it diſcovers their ſin and ſhame. It being a ſad ſigne of a ſinking cauſe, and a corrupt conſcience to ſmother truth.
+<note place="margin">1 King. 22.13.</note> They were <hi>Baals</hi> worſhippers that deſired the Lords Prophet to ſpeak like the Nations Prieſts; and 'twas a Jewiſh Presbytery that would have ſuppreſſed the Name of Jeſus,
+<note place="margin">Acts 4.</note> as my Beadle confeſſeth would have ſerv'd his baptiſm.</p>
+               <p>But ſeeing I have ſufficient teſtimony that his own mouth ſeverall times confeſſed, that my promiſe was not to med<g ref="char:EOLhyphen"/>dle with the controverſie of baptiſm at his meeting (which accordingly I performed, it is not I, but himſelf is the Lyar.</p>
+               <p>And he further foments,
+<note place="margin">A fourth falſ<g ref="char:EOLhyphen"/>hood.</note> That <hi>ſoon after this</hi> promiſe <hi>I fell pell-mell upon the point of Baptiſm.</hi> I confeſſe if my Beadle be as
+<pb n="9" facs="tcp:43962:5"/>expert at Pel-mel as at jumping,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 48.</note> and ſhovel-bord he's too hard for me. But if after this promiſe I preached more then 60. ſer<g ref="char:EOLhyphen"/>mons before I left Pel-mel upon baptiſm, my Laſher muſt be left in the lurch for the Lyer.</p>
+               <p>My other Principles,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 44.</note> 
+                  <hi>(reprinted by my Beadle)</hi> were formerly publiſhed by ſome Libellers long ſince filenced, and though they were aſhamed of their names, yet they are upon diſcovery, and do ſound like their ſlanders.</p>
+               <p>The young Levite who lay lurking in the North till he en<g ref="char:EOLhyphen"/>danger his Fellowſhip, looks like one <hi>Dareſly</hi> his ſtinging tongue being ſharpned like a ſhaft, for envious <hi>Archers</hi> bow confirmes the country Proverb, that a Fools bolt is ſoon ſhot, whereby himſelf is ſnared; my Laſher alſo laying himſelfe open as a par<g ref="char:EOLhyphen"/>ty in Print; He further complaines that <hi>I never dealt with him in a Chriſtian way for his miſcariages,</hi> which doth but increaſe his ſcore.
+<note place="margin">
+                     <hi>A fifth falſe<g ref="char:EOLhyphen"/>hood. Laſh. p.</hi> 55.</note> Seeing I ſo laid <hi>Ham's</hi> Sin to his charge (for his trea<g ref="char:EOLhyphen"/>chery againſt that party he had ſided with as the honeſt party) that his wife (trembling) ſaid they were never ſo reproved, nor did I ſpare his paſſionate adverſary, but preſſed ſatisfaction on both ſides, which was promiſed, but moſt hypocritically per<g ref="char:EOLhyphen"/>formed by my Beadle. Indeed ſuch were the actings both of Lecturer and Laſher, that it hath moved me to heare how it be<g ref="char:EOLhyphen"/>came even proverbial for fellowes to call unto each other in the ſtreets, thus; <hi>Mr. Jenniſon is a knave, elſe aske M. Archer, Mr. Archer is a knave, elſe aske Mr Genniſon.</hi>
+                  <note place="margin">
+                     <hi>Laſh. p.</hi> 17</note> I know not well what the Beadle meanes by that Infamy, which he ſaith will hardly ever be wiped off, but this I knew (to the praiſe of free grace) that my Miniſtrie hath been frequently attended by the chief of the Magiſtrates, with great reſorts of people, and confirmed by the converſation of many ſoules, with ſweet communion of more then two hundred baptized diſciples, Celebrating Je<g ref="char:EOLhyphen"/>hovah's Sabbath, ſo tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my God hath ſet me above the blaſt of a Tobaco-man, and out of the reach of his New-England laſh that would make me a lyar.
+<note place="margin">
+                     <hi>Laſh. p,</hi> 41. <hi>The</hi> 6th <hi>falfe-hood.</hi> 2 <hi>Tim.</hi> 3.8.</note>
+               </p>
+               <p>And his firſt charge, is my oppoſing the <hi>Spels</hi> of the contenti<g ref="char:EOLhyphen"/>ous <hi>Lecture at Peters for which,</hi> he ſaith, <hi>there was never the leaſt colour:</hi> But the dayly diſcovery of the pariſh presbyters, <hi>reſisting the truth of God,</hi> like thoſe ancient Enchanters <hi>Jannes and Jambres</hi> ſufficiently clears me, and proves my Laſher the lyar.</p>
+               <pb n="10" facs="tcp:43962:6"/>
+               <p>Who is like to ſpeed to better in his ſecond ſlander is ter<g ref="char:EOLhyphen"/>ming it a <hi>groſſe untruth</hi> that I have printed him,
+<note place="margin">Laſh. <hi>p.</hi> 48. <hi>Laſh.</hi> 41. <hi>The</hi> 7th. <hi>falſ<g ref="char:EOLhyphen"/>hood. Laſh. p.</hi> 40.</note> as <hi>polluting his conſcience in oppoſing his principles,</hi> and (that he may falſifie to purpoſe) he ſaith, <hi>I condemn him becauſe he will not oppoſe his New-England principles;</hi> That the falſehood here of may be ma<g ref="char:EOLhyphen"/>nifeſted; obſerve, that he profeſſeth the morality of the fourth commandement,
+<note place="margin">
+                     <hi>The. Sab. p.</hi> 147. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>as New-England doth;</hi> now it is plain that New-England profeſſedly oppoſeth thoſe very Arguments which our Beadle takes up from <hi>Heylin</hi> and the Prelates, with very much vaper in the 22, 23, and 24. pages of his Laſh: If then the Beadle be ſo, for the morality of the fourth commande<g ref="char:EOLhyphen"/>ment as they are, I doe once more affirme that in his oppoſing the Seventh dayes certainty, and beginning of the Sabbath (which they ſo ſtrenuouſly atteſt) he doth ſtill more &amp; more pol<g ref="char:EOLhyphen"/>lute his conſcience in oppoſing his profeſſed principles, ſo that the groſſe falſehood he would faſten upon me, reflects upon himſelfe, and further confirmes my Laſher the lyar.</p>
+               <p>His third ſlander which he termes <hi>a very foule and manifeſt un<g ref="char:EOLhyphen"/>truth,</hi>
+                  <note place="margin">
+                     <hi>Laſh. p.</hi> 49.</note> is my ſaying that (whilſt he oppoſed his principles at <hi>Pe<g ref="char:EOLhyphen"/>ters</hi>) <hi>the decaying Clergy ſate ſilent;</hi> and to prove it ſo, he tels us that the pariſh Miniſter prayed before he began, and ſpake when he had done, and by this Logick the Laſher confirmes his title in making me a Lyar;
+<note place="margin">
+                     <hi>The</hi> 8th. <hi>falſe<g ref="char:EOLhyphen"/>hood.</hi>
+                  </note> and indeed it is a notable whiff from a Tobaco ſhop. The pariſh Miniſter prayed before our Beadle began, and ſpeake when he had done: Ergo tis a very foul and manifeſt untruth to ſay the dacaying Clergy ſate ſilent whilſt he ſpeak, doubtleſs the old man is ſmothered in the ſmoke of his botomleſs pit, could none of the decaying Clergy ſave the mans ſence from this in evitable ſhipwrack? Had I been admitted to their pretended conference at <hi>Peters,</hi> I ſhould have done my beſt in reſcuing his reaſon; But they be like feared defilements,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 42.</note> ſeeing the Laſher laies me out to <hi>be as bad as excom<g ref="char:EOLhyphen"/>municate;</hi> But (if he be not too old to learn) let me inſtruct him, that no cenſure is ſo bad as excommunication, much leſſe my own voluntary withdrawing. The fourth falſehood or groſſe lye (to uſe that durty dialect wherein he diſciples me) in my ſpeech, that he highly applauded me, <hi>without the least contradie<g ref="char:EOLhyphen"/>tion,</hi> long after ſome of my different principles were delivered.</p>
+               <p>Anſ. That he highly applauded me, let his own pen teſtifie
+<pb n="11" facs="tcp:43962:6"/>where he tels the world, that I bent my ſelf freely and fully in my preaching againſt the Quakers, who had inſnared many, yea and that to the great and generall ſatisfaction of my hearers, and that I gained eſteem of the beſt and moſt ſound Chriſtians, who were taken with the ſtrength of my gifts and plauſibility of my deportment, &amp;c. I think he hath applauded me to pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>But to prove that he contradicted me, after ſome of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diffe<g ref="char:EOLhyphen"/>rent doctrines were delivered, he tels us that <hi>he diſcourſed,
+<note place="margin">
+                        <hi>Laſh. p.</hi> 50.</note> &amp; divers times argued the points of Baptiſm with me,</hi> which I hope may be done without a ſpirit of contradiction. And that ſuch diſcour<g ref="char:EOLhyphen"/>ſes &amp; arguings were without contradiction, his own pen proves, Laſh. pag. 48. where it is publiſhed, <hi>that after I was diſcovered to be againſt infants baptiſm, divers Chriſtians (meaning himſelfe for one) deſired me to wave it, being ſo controverſall, uſing this argument that it would but make breaches, and they ſtood in need of healings:</hi> Now let any ingenious perſon judge whether ſuch deſires, diſ<g ref="char:EOLhyphen"/>courſes, or arguments may be termed contradictings, if not, then here's full proofe from his own pen that my Laſher is the groſſe lyar,
+<note place="margin">The ninth falſe<g ref="char:EOLhyphen"/>hood.</note> who indeed was ſo far from contradicting me in the point of infants baptiſm, that there are ſufficient witneſſes of his ſaying, <hi>that for his part he ſhould not diſlike it, if baptiſme were forborn</hi> 3. <hi>or</hi> 4 <hi>yeares, till the children could anſwer for them<g ref="char:EOLhyphen"/>ſelves.</hi>
+               </p>
+               <p>His fifth untruth, about juſtifying faith,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 50.</note> reflects upon him<g ref="char:EOLhyphen"/>ſelfe, ſeeing I have as ſufficient teſtimony as any can be produ<g ref="char:EOLhyphen"/>ced in <hi>Colchester,</hi> that I have publiſhed the truth (for ſubſtance) in my Chriſtian account confirmed; but laſtly,
+<note place="margin">
+                     <hi>The</hi> 10th <hi>falſe hood.</hi>
+                  </note> that <hi>I helped to uphold the meeting at his houſe which was almoſt ſunk through his treachery in revenging himſelfe of the Town Lecturer</hi> is ſo generally known, that if he were not <hi>ſottiſhly drunk with deluſions,</hi> he could not gaineſay it, but this indeed is true, that till the Lecturer ſo vehemently charged him and his wife as <hi>implecable perſons</hi> (which I doubt was too true) there had been a meeting many yeares, in all which time they could ne<g ref="char:EOLhyphen"/>ver find away to communion; and if there be any thing of God in their ſacrament ſince, both Presbyterians, Independants, and ſeparation ſhould give me thanks for rouzing them.</p>
+               <p>It is alſo true,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 50.</note> that ſince my departure their meeting is grown
+<pb n="12" facs="tcp:43962:7"/>numerous; for it being deſerted and forſaken for it by the Towne-Lecturer, and ſecondly by my ſelf, the man proſtituted his houſe even to the pariſh Presbyterians, ſo that in the former ſeaſon it became too hot to hold them.</p>
+               <p>I have omitted very many of his down right untruthes in both parts of his Laſh, being heartily wearied with digging in his Dunghill; I have carefully avoided reproaching terms, unleſſe his owne language be cenſured as ſuch. The Lord hath mar<g ref="char:EOLhyphen"/>velouſly diſcovered the mans folly, &amp; ordered his owne pen to vindicate my integrity; he hath ſufficiently proved himſelfe the buſie Tobaco-man, &amp; with his art of a New-England Laſher is fully proved the lyar, &amp; ſo let him trudg to Stannaway bowling-green, he were better leave his jangling &amp; follow his jumping, one<g ref="char:EOLhyphen"/>ly let him beware of jumping out of the <hi>London</hi> waggon any more, ſeeing his laſt leap ſo long retarded his laſh, &amp; poſſible has ſpoild that ſport, but he knows how to recreate himſelf with his ſhovel-boord-table, which he can eaſily turne to a communion Table upon his firſt daies fabbath, for the fellowſhip of <hi>Fordham,</hi> and as ſuddainly turn it again for a Claſſicall conſultation, how to be revenged on the Dipper who (if the perſons of <hi>Peters</hi> and <hi>Dedham</hi> preach truth) trips up folks heels in the water, and is not aſhamed to pull off womens ſtockens, and waſh their feet.</p>
+               <p>Beadle, bring out your <hi>Laſh,</hi> and do your office luſtily upon theſe egregious, Jer. 9.5. But I muſt be modeſt, and turne to the controverſall part of the pamphlet, which ſavoures of a little more ſobriety, which I would meet, with a proportionable ſpi<g ref="char:EOLhyphen"/>rit;
+<note place="margin">The controver<g ref="char:EOLhyphen"/>ſall Part.</note> wherefore leaving ſorded <hi>Will. Jenniſon</hi> with the Beadles in Bridewell, I come ſeriouſly to contend with the more ſollid Mr. <hi>Jenniſon,</hi> on the battlements of <hi>Beth-el.</hi>
+               </p>
+               <p>And upon our very firſt encounter we are agreed,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 3. <hi>Act.</hi> 2.</note> both Maſter <hi>Jenniſon</hi> and my ſelf freely ſubſcribing to the <hi>Apostles Pentecoſt,</hi> and fully concluding <hi>that the ſame glorious day on which Pentecoſt then fell, was and is that bleſſed, Sanctified day which the Saints did, and ought to keep as their Sabbath.</hi>
+               </p>
+               <p>For although the Authority of the ſeventh day be firmly eſta<g ref="char:EOLhyphen"/>bliſhed by the Fathers inſtitution,
+<note place="margin">7th. <hi>day Sab<g ref="char:EOLhyphen"/>bath ſought out</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.68. <hi>&amp;c:</hi>
+                  </note> the Sons confirmation, the ſpirits Approbation, and the Saints obſervation (as I have fully proved in my book of the Sabbath) yet ſince Maſter
+<pb n="13" facs="tcp:43962:7"/>
+                  <hi>Jenniſon</hi> omits three of theſe impregnable Pillars, and ſingles out the fourth to caſt his whole cauſe upon: I am chearfully reſolved, through the aſſiſtance of the promiſed ſpirit of truth, to embrace that wonderful day of Pentecoſt, and none but that, for the undoubted Sabbath of Chriſtians, which I ſhall con<g ref="char:EOLhyphen"/>vincingly and undeniably prove to be <hi>Jehovah's</hi> certain ſancti<g ref="char:EOLhyphen"/>fied ſeventh day, which (being performed) Mr. <hi>Jenniſon</hi> ſtands obliged in credit and conſcience to own it; Seeing therefore we are agreed herein, I ſhall with all poſſible brevity touch (and I hope overturn) his other Arguments, and referre the whole matter to the Apoſtles Pentecoſt.
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 2.</note> And firſt Maſter <hi>Jenniſon</hi> (ſilently) yields, that he hath neither command from God, nor councell from Chriſt for the obſervation of the firſt day of the week. In that he flies for his prime Argument to the ſup<g ref="char:EOLhyphen"/>poſed example of Saints, which if he could prove (as no man can) yet were it not ſufficient ground to reject the true ſeventh day Sabbath, ſetled by clear commands.</p>
+               <p>For this muſt be obſerved as a general concluſion.
+<note place="margin">A General rule.</note> That <hi>ex<g ref="char:EOLhyphen"/>ample<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do only allow us liberty and nothing but a clear command can oblige us to duty,</hi> Rom. 4.15. As for inſtance. Community of goods is the Saints liberty, becauſe it was practiced. But liberality of our proper ſubſtance is a duty becauſe it is com<g ref="char:EOLhyphen"/>manded.</p>
+               <p>Saints may freely Feaſt before Communion, becauſe we have Apoſtical preſident. But all true Diſciples muſt break bread, becauſe we have Evangelical Precept. Even ſo we have liberty to meet the firſt day, as freely as any other week-day, for we find the Saints at <hi>Troas</hi> then, (occaſionally) aſſembled. But we are tyed in duty to celebrate the ſeventh day-Sabbath, as be<g ref="char:EOLhyphen"/>ing expreſly commanded. The Saints example at <hi>Troas</hi> once, doth no more obliege us to their time, then their meeting in an upper chamber doth tye us to the like place. If examples alone were binding,
+<note place="margin">
+                     <hi>Act.</hi> 17.2. and 18.4.</note> we have innumerable for the ſeventh day Sab<g ref="char:EOLhyphen"/>bath: and this may be ſufficient to ſhew the invalidity of Mr. <hi>Jenniſons</hi> firſt Argument; and that part of his fourth which is grounded upon <hi>Act.</hi> 20.
+<note place="margin">
+                     <hi>Lash.</hi> p. 18.19.</note> His Arguments from Chriſts appear<g ref="char:EOLhyphen"/>ing, <hi>pag.</hi> 2. and bleſſing <hi>pag.</hi> 15. <hi>&amp;c.</hi> depend upon the beginning of the Scripture day which alwayes begins at Even,
+<note place="margin">
+                     <hi>Exo.</hi> 12.18.19. <hi>Deut.</hi> 16.46.</note> and ſo Chriſts non-appearing till the firſt day at Even makes rather
+<pb n="14" facs="tcp:43962:8"/>againſt it,
+<note place="margin">
+                     <hi>Jer.</hi> 6.14.</note> and ſo doth the famous examples of Father, Son, and Saints; for, in ſtead of the honour Maſter <hi>Jenniſon</hi> would put up<g ref="char:EOLhyphen"/>on it (<hi>pag.</hi> 17.18.)</p>
+               <p n="1">1. The Father wrought upon it, <hi>Gen.</hi> 1. and therefore we ſhould be his followers as dear children, <hi>Eph.</hi> 5.1.</p>
+               <p n="2">2. The Son travelled upon it, <hi>Luke</hi> 24.13.15. And he hath given us example that we ſhould do as he hath done, <hi>John</hi> 13.15.</p>
+               <p n="3">3.
+<note place="margin">
+                     <hi>Laſh.</hi> pag. 12:</note> The Saints caſt their accounts upon it, 1 <hi>Cor.</hi> 16.1, 2. and ſo may we; Maſter <hi>Jenniſons</hi> apprehenſions of the year of Ju<g ref="char:EOLhyphen"/>bile are altogether impertinent, ſince it is evident it was the year of Chriſts firſt Preaching, <hi>Luke</hi> 4.16. and not of his Re<g ref="char:EOLhyphen"/>ſurrection.</p>
+               <p>Neither doth <hi>Johns</hi> being in the ſpirit in the Lords day ſhew what day that was,
+<note place="margin">Page 13.</note> nor any more prove the firſt day, the Saints meeting time, then his being in the ſpirit in the Iſle of <hi>Patmos</hi> can prove <hi>Patmos</hi> their meeting place.</p>
+               <p>As for ſucceding ages, they do as much juſtifie Eaſter-day, as the firſt day of the week, and as much may be conjectured for the one as the other,
+<note place="margin">Page 14. &amp; 27:</note> from <hi>Pſal.</hi> 118. one command is worth 10000: ſuppofitions. Chriſts birth-day bids faireſt for it, <hi>Luk.</hi> 2.10, 11. But <hi>Ioh.</hi> 8.56. carryes it.</p>
+               <p>If any can diſcern the Saints aſſembling in 1 <hi>Cor.</hi>
+                  <note place="margin">Page 19. Page 20.</note> 16. (as Mr. <hi>Jenniſon</hi> ſuggeſts) it muſt be by ſome other light then Gods word. The day of Chriſts greateſt power propheſied, <hi>Pſa.</hi> 110.3. was the Apoſtles Pentecoſt, <hi>Act</hi> 2. with <hi>Luke</hi> 24.49 &amp; <hi>Acts</hi> 1.8. Though Maſter <hi>Jenniſon</hi> cannot ſee why the ſeventh day from the words Creation ſhould rather be mans holy reſt day,
+<note place="margin">Page 22:</note> then the ſeventh day from mans own Creation, yet through grace I and others can;
+<note place="margin">
+                     <hi>Exod.</hi> 20.11.</note> For in ſix days <hi>Jehovah</hi> made the heavens and the earth, and reſted the ſeventh day, wherefore <hi>Jehovah</hi> bleſſed the Sabbath day, and ſanctified it.</p>
+               <p>Mr.
+<note place="margin">
+                     <hi>Laſh.</hi> p. 23, 24.</note> 
+                  <hi>Jenniſons</hi> Arguments againſt the certainty of the ſeventh day do equally ſtrike at the certainty of his firſt day, and to what end ſhould he contend for any Sabbath if both were uncertain? But my book of the Sabbath hath undoubted evidence of the ſeventh days certainty, to which I refer my Reader where he ſhal not only find the certain day, but the undoubted beginning of the day, not at Maſter <hi>Ienniſons</hi> midnight morning, but the ſixth day
+<pb n="15" facs="tcp:43962:8"/>Evening,
+<note place="margin">
+                     <hi>Pag.</hi> 25. <hi>&amp;</hi> 35. <hi>Levit.</hi> 23 32.</note> for doubtleſs our glorious Creator had finiſhed his work before midnight; yea the very ceremoniall Sabbaths (be<g ref="char:EOLhyphen"/>cauſe honoured with the Title of Sabbaths) were to be cele<g ref="char:EOLhyphen"/>brated from Even to Even, which begins and ends at Sun-ſet,
+<note place="margin">
+                     <hi>Laſh. pag,</hi> 36. <hi>Mar.</hi> 1.32. <hi>Deut.</hi> 16.6.</note> as is fully evident from plain Scripture which needs no conſe<g ref="char:EOLhyphen"/>quence to confirm it, yet do I not deny a fair deduction from Scripture, but do utterly deny the ſetting up a firſt-day Sabbath by conceited conſequence, againſt the true ſeventh day Sab<g ref="char:EOLhyphen"/>bath confirmed by clear command. Or that any Ordi<g ref="char:EOLhyphen"/>nance of Chriſt was ever Inſtituted by conſequence, I ſhall never be condemned for omitting what was never commanded,
+<note place="margin">1 <hi>Joh.</hi> 3.4. <hi>Rom.</hi> 4.15.</note> as firſt day, and Infant Baptiſm; For <hi>ſin is the tranſgreſſion of ſome Law, and where no Law is, no tranſgreſſion.</hi>
+               </p>
+               <p>It is not ſo as Maſter <hi>Jenniſon</hi> aſſerts;
+<note place="margin">
+                     <hi>Laſh.</hi> p. 25.26</note> 
+                  <hi>That if the ſeventh day appointed</hi> (in the Royal Law) <hi>be the Christian Sabbath,</hi> that <hi>then all the Ordinances appropriated</hi> (by the beggerly Ceremonial Law) <hi>are ſtill to be obſerved.</hi> He that appointed double ſacrifices for the Sabbath day, as a Sabbath day, en<g ref="char:EOLhyphen"/>joyned ſingle ſacrifices for week dayes, as weekes dayes; and as ſoon ſhall the week dayes ceaſe to be week, dayes as <hi>Jehavah's</hi> Sanctified ſeventh day ſhall ceaſe to be the Saints Sabbath day,
+<note place="margin">
+                     <hi>Iſay</hi> 66.21. <hi>Mal.</hi> 3 3. <hi>Iſai,</hi> 56.6.7. <hi>Heb.</hi> 10.5.6.7. <hi>and</hi> 13.16. <hi>Rev.</hi> 5.8.</note> and as ſoon ſhall the mountain of Gods houſe be melted, becauſe made up of Prieſts and Levites, as G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds Sabbath ſhall be ſubdued, becauſe mentioned with burnt-offer<g ref="char:EOLhyphen"/>ings and ſacrifices; He that accepts their perſons for a Royal Prieſthood will graciouſly own their Saviour and ſervices for burnt-offerings and ſacrifices.</p>
+               <p>And Mr.
+<note place="margin">
+                     <hi>Laſh,</hi> page 27.</note> 
+                  <hi>Jenniſon</hi> may one day underſtand that Chriſt was ne<g ref="char:EOLhyphen"/>ver more active then in and after death, <hi>Col.</hi> 2.14, 15. And that when God brought his Son into the world, then all the Angels did worſhip him, <hi>Luke</hi> 2.14. <hi>Math.</hi> 4.11. But <hi>Heb</hi> 1, 6 ſpeaks not of his reſurrection day, nor <hi>Pſa.</hi> 118. of every firſt day of the weeke,
+<note place="margin">Page 28.</note> nor were the diſciples in a hopeleſſe condition till the firſt day was almoſt, and altogether ended, <hi>Luke</hi> 24.
+<note place="margin">
+                     <hi>Laſh. pag.</hi> 29.</note> 
+                  <hi>Mark</hi> 16.13, 14. As for <hi>Heb.</hi> 4. I have faithfully expounded it in my book of the Sabbath, and whereas Mr. <hi>Jenniſon</hi> ſaies the word Sabbatiſm denoteth not any dayes reſt. Mr. <hi>Carter.</hi> (in his cove<g ref="char:EOLhyphen"/>nant) will tell him it denotes the firſt day, and I ſuppoſe he knowes the originall as well as Mr. <hi>Jenniſons</hi> inſtructers. But
+<pb n="16" facs="tcp:43962:9"/>let the Lexicons and Dictionaries be examined (whoſe authors were equally ignorant of the true Sabbath) and they will inform that the word Sabbatiſm ſignifies the <hi>Celebration of the Sabbath, or a day of reſt,</hi> But Mr. <hi>Jenniſon</hi> is quite miſtaken, in applying to the reſt mentioned in the other verſes,
+<note place="margin">
+                     <hi>Lash. p.</hi> 31: <hi>Heb.</hi> 7.27. <hi>&amp;</hi> 9.26. <hi>&amp;</hi> 10.10.</note> for they are all of them an other different greek word, and it is utterly untrue that he ſaies Chriſts ſufferings ceaſed not at his death, and that the ho<g ref="char:EOLhyphen"/>ly womans celebrating Sabbath was not after Chriſts ſufferings, <hi>Luke</hi> 23. for when he once died he bequeathed his ſpitit to God, and entred into reſt, <hi>Luke</hi> 23.46. <hi>Act.</hi> 2.26.</p>
+               <p>If the 4th. commandement be given to the Gentiles (as Mr. <hi>Ienniſon</hi> confeſſeth) I am ſure it commanded nothing but the ſanctifying of the 7th day Sabbath which is to <hi>continue for e<g ref="char:EOLhyphen"/>ver and ever,
+<note place="margin">
+                        <hi>Lesh. p.</hi> 32. <hi>and</hi> 32. <hi>Pſ.</hi> 111.7, 8. <hi>Mat.</hi> 5.18.</note> even till heaven and earth paſſeth away,</hi> and ſo was it never ſaid of circumciſion nor firſt fruits.</p>
+               <p>As to that of <hi>Col.</hi> 2.14.16. I am ſure it doth not ſo much as mention the ſeventh. day, if it oppoſe any thing in the 4 th. com<g ref="char:EOLhyphen"/>mandement it muſt be the Sabbath it ſelfe, which Mr. <hi>Jenniſon</hi> will not ſay. But I have fully proved it toucheth not the Roy<g ref="char:EOLhyphen"/>all ſeventh day Sabbath at all, which Mr. <hi>Jenniſon</hi> doth not an<g ref="char:EOLhyphen"/>ſwer.
+<note place="margin">
+                     <hi>Lash. p.</hi> 34.</note>
+               </p>
+               <p>As to Mr <hi>Ieniſons</hi> aſſertion that the day begins with morning, he doth not onely oppoſe New-England principles, but the or<g ref="char:EOLhyphen"/>der of God himſelfe,
+<note place="margin">
+                     <hi>Gen.</hi> 1:</note> who placed the evening before the mor<g ref="char:EOLhyphen"/>ning; And <hi>Mark</hi> 14.30. is pregnant for it, for the 14th day at even when the Paſſover was eaten, was the beginning of the fifteenth day, as is confeſſed by the learned commentators Anot. <hi>Lev.</hi> 23.5.
+<note place="margin">
+                     <hi>Lash. p.</hi> 37.</note> and is plain <hi>Exod.</hi> 12.18, 19. and however Mr. <hi>Jeni<g ref="char:EOLhyphen"/>ſon</hi> termes it <hi>a ſhuffle to ſay the firſt fruits were offered the morrow of (or after) the Sabbath,
+<note place="margin">Amſworth.</note> and yet this morrow was the Sabbath it ſeife,</hi> he termes not me but <hi>Moſes,</hi> if not God himſelfe the ſhuf<g ref="char:EOLhyphen"/>ler, who plainely calls the 15 th. day of the firſt moneth the morrow after the Paſſeover, when they came out of <hi>Egypt,</hi> &amp; yet the very ſame night of eating the Paſſeover, &amp; departing out of <hi>Egypt</hi> was the beginning of the 15th day,
+<note place="margin">
+                     <hi>Numb.</hi> 33.3.</note> 
+                  <hi>Exod.</hi> 12.18, 19. If this be marvellous ignorance as Mr. <hi>Jeniſon</hi> termes it, I am content to be ſo ſenſured by him, whilſt I have learned <hi>Ainſworth,</hi> Di<g ref="char:EOLhyphen"/>odati. the Engliſh commentators, <hi>Moſes,</hi> and God himſelfe to bear me out in it.
+<note place="margin">
+                     <hi>lash. p.</hi> 38.</note> And that <hi>Saviour</hi> who is Lord of the Sab<g ref="char:EOLhyphen"/>bath
+<pb n="17" facs="tcp:43962:9"/>Sabbath will reckon with Mr. <hi>Ienuiſon</hi> for his hard ſpeeches;
+<note place="margin">
+                     <hi>Laſh. p.</hi> 38, 39.</note> for we ſhall ſeek none other Saviour, but he who com<g ref="char:EOLhyphen"/>mands the keeping of his Sabbath, <hi>Mat.</hi> 24.20.</p>
+               <p>As to the judgement of God upon the Prelates, indeed it is moſt juſt for their oppoſing the morality of the Sabbath, and let thoſe who aſſert it, that ſleight it, expect the next Vial. <hi>I</hi> have ſeen variety of judgements, even to aſtoniſh<g ref="char:EOLhyphen"/>ment, upon rejecters of the revived ſeventh day Sabbath, which (in my Reply to the next book which I hear is in the Preſs) I may poſſibly have more leiſure and juſt ground to particularize.</p>
+            </div>
+            <div type="section">
+               <head>The Streſs of the Controverſie.</head>
+               <p>AFter this brief, yet full Confutation of Mr. <hi>Ienniſons</hi> inferiour Arguments, I find him (in my entrance upon (the Apoſtles Pentecoſt) which he concludes the <hi>main Streſs of the Controverſie</hi>) labouring under two very groſs miſtakes;
+<note place="margin">
+                     <hi>Act.</hi> 2. <hi>Laſh. p.</hi> 3.</note> The firſt is a ſtrange conceit, that the firſt fruits (enjoyned <hi>Lev.</hi> 23.11.) was to be ripe corn; and upon this his mi<g ref="char:EOLhyphen"/>ſtake, he renders the day of reaping <hi>uncertain,
+<note place="margin">
+                        <hi>p.</hi> 4. <hi>&amp;</hi> 10.</note> according as Harveſt came ſooner or latter;</hi> and ſo runs on in reckoning the fifty daies, or ſeven weeks, at randome, to faſten (the A<g ref="char:EOLhyphen"/>poſtles) Pentecoſt to his Firſt-day Sabbath; whereas the Scripture requires not <hi>ripe corn,</hi> but <hi>green ears,</hi>
+                  <note n="*" place="margin">
+                     <hi>Lev.</hi> 2.14. <hi>Exod.</hi> 9.31. <hi>Deut.</hi> 16.12. <hi>Exod.</hi> 23.14.</note> ſuch as the field afforded at their going out of <hi>Egypt,</hi> in Memorial whereof theſe <hi>firſt fruits</hi> were appointed, and Gods <hi>Iſrael</hi> prohibited to eat thereof, until this homage were perform<g ref="char:EOLhyphen"/>ed.</p>
+               <p>This foul fault in the entrance of his account of fifty daies, muſt needs be ill in the end.</p>
+               <p>His ſecond intolerable miſtake,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 9.</note> (which hath nothing to ſave it from high blaſphemy, but groſs ignorance) is his confident aſſertion, that <hi>the feaſt of first fruits</hi> was not at the end of the weeks, but at the beginning; yea, and chargeth it as a <hi>very great miſtake, to ſay the Feaſt it ſelf was not till the end of the weeks.</hi> This Charge flies in the face of God him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="18" facs="tcp:43962:10"/>who hath thus expreſſy ſpoken by his ſervant <hi>Moſes. Alſo in the day of the firſt fruits, when ye bring a new meat-of<g ref="char:EOLhyphen"/>fering unto the Lord, AFTER YO<g ref="char:V">Ʋ</g>R WEEKS BE O<g ref="char:V">Ʋ</g>T, ye ſhall have an holy Convocation,
+<note place="margin">
+                        <hi>Numb.</hi> 28.26. <hi>with Lev.</hi> 23.2.4.</note> ye ſhall do no ſervile work.</hi> This was that holy Convocation, <hi>Act.</hi> 2.1, 2. called (in Greek) Pentecoſt, whereon the bread which was made of the Sheaf <hi>(or <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er)</hi> waved, <hi>Let.</hi> 23.11. was to be again wa<g ref="char:EOLhyphen"/>ved before the Lord, as the firſt fruits, <hi>Lev.</hi> 23.17, 20, 21. I ſhall not henceforth wonder at Mr. <hi>Ienniſons</hi> error, in his reckoning the ſeven weeks, ſo as to make Pentecoſt fall upon his firſt day, who can ſo confidently affirm that this Feaſt was in the beginning of the weeks, and charge <hi>Moſes</hi> with <hi>a very great miſtake,</hi> for recording it to be <hi>after the weeks were out.</hi>
+               </p>
+               <p>Now touching that which he terms <hi>the main Streſs of the Controverſie between us,</hi>
+                  <note place="margin">
+                     <hi>Laſh. p.</hi> 3.</note> we have both ſolemnly engaged be<g ref="char:EOLhyphen"/>fore the world (in print) <hi>caſting</hi> (as he ſaith) <hi>our whole cauſe upon it. That the day whereon (the Apoſtles) Pentecoſt fell,
+<note n="*" place="margin">
+                        <hi>Act.</hi> 2.1.</note> was, and is that glorious day, which the Saints did, and ought to keep as their Sabbath.</hi> And I deſire no more, but that he which ſhall ſhrink from this clear confeſſion, may be hence<g ref="char:EOLhyphen"/>forth judged and deemed a deſerter and profaner of the true acknowledged Chriſtian Sabbath.</p>
+               <p>The fair diſcovery of this Queſtion, upon what day the Apoſtles Pentecoſt fell, will be fully evident in the inſtitu<g ref="char:EOLhyphen"/>tion of the Feaſt, <hi>Lev.</hi> 23.10, 11, 15. where <hi>Jehovah required</hi> Moſes <hi>to ſpeak unto the children of</hi> Iſrael, <hi>and ſay unto them, when ye be come into the Land which I give unto you, and ſhall reap the harveſt thereof, then ye ſhall bring a ſheaf of the firſt fruits of your harveſt unto the Prieſt, and he ſhall wave the ſheaf before the Lord,
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> to be accepted for you on the morrow of the Sabbath</hi> (for ſo is the Hebrew, and ſo <hi>Ainſworth</hi> renders it) <hi>on the morrow of the Sabbath the Prieſt ſhall wave it.</hi> And what ever this Sabbath was, this is plain, that from the morrow following, they were enjoyned to begin their reckoning of ſeven Sab<g ref="char:EOLhyphen"/>baths, <hi>Lev.</hi> 23.15, 16. which is expreſly called ſeven weeks, in <hi>Deut.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Lev.</hi> 23.</note> 16. and the Septuagint is the ſame in both places. <hi>And ye ſhall count unto you from the morrow after the Sabbath, from the day that ye brought the ſheaf of the wave-offering, ſeven Sab<g ref="char:EOLhyphen"/>baths
+<pb n="19" facs="tcp:43962:10"/>ſhall be compleat, even unto the morrow after the ſeventh Sabbath, ſhall ye number fifty dayes.</hi>
+               </p>
+               <p>This Sabbath from whoſe morrow the account began, is by <hi>Ainſworth, Diodat,</hi> &amp;c. called the Paſſeover Sabbath,
+<note place="margin">
+                     <hi>Laſh,</hi> p. 4. &amp; 5. &amp; 8.</note> and <hi>Eaſter;</hi> But Mr. <hi>Jeniſon</hi> is very angry with me for ſo ſpeak<g ref="char:EOLhyphen"/>ing, and yet from the bare authority of certain obſcure Informers, he confidently concludes, <hi>that it was the Jewes ſe<g ref="char:EOLhyphen"/>venth-day weekly Sabbath,</hi> and ſo boldly begins upon the firſt day of the week to number the 7 weeks, or fifty days, ſo to make Pentecoſt fall (<hi>Pat,</hi> as he phraſeth it) upon his ſuppo<g ref="char:EOLhyphen"/>ſed firſt-day Sabbath.</p>
+               <p>I ſhall not (with my ſmall skill in the Hebrew) preſume to contend with his unknown informers, who aſſures him <hi>that it can be no other then the weekly Sabbath;</hi> yet I ſuppoſe mo<g ref="char:EOLhyphen"/>deſty will even conſtrain both him and them to ſubmit un<g ref="char:EOLhyphen"/>to the information of the moſt profoundly learned, which the long Parliament and Aſſembly could find for that eminent mark of the <hi>Engliſh Annotations upon the whole Bi<g ref="char:EOLhyphen"/>ble,</hi> whoſe Notes upon theſe very words [<hi>Lev.</hi> 23.11.15. <hi>On the morrow after the Sabbath</hi>] are quite contrary to Mr. <hi>Ieniſon</hi> and his informers, who ſay <hi>it can be no other then the weekly Sabbath.</hi> Their notes are theſe; <hi>Not the weekly Sabbath,
+<note place="margin">
+                        <hi>Engliſh Annot. on</hi> Lev. 23.</note> but the firſt day of the Feaſt of unleavened bread called</hi> (ſay they) <hi>a Sabbath,</hi> verſ. 7. Yea, and to put the ſeven weeks or fifty dayes out of doubt, theſe learned men do expreſly declare in the ſame place, the punctuall day of the Feaſt, and of the moneth which begins our account, even <hi>the ſecond day of the Feaſt, which is</hi> (ſay they) <hi>the</hi> 16th <hi>day of the moneth</hi> Ni<g ref="char:EOLhyphen"/>ſan, <hi>from which day were reckoned the fifty dayes ended at Pente<g ref="char:EOLhyphen"/>coſt, reckoning that ſecond day incluſively.</hi> Here's the moſt clear confeſſion, that the Sabbath leading to the account of fifty dayes is not the weekly Sabbath; but that the morrow fol<g ref="char:EOLhyphen"/>lowing the waved ſheaf is the (certain fixed) 16th day of the moneth, and begins the number of 50 days, or ſeven weeks; and on what day this 16th of <hi>Niſan</hi> fell at the death of Chriſt is clear; for <hi>upon the</hi> 14th <hi>day of the firſt moneth at even,</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 12.18. <hi>Coll.</hi> 2.16, 17. <hi>Matth.</hi> 26.</note> did our Lord Jeſus <hi>(who is the true body of theſe ſhadows)</hi> pun<g ref="char:EOLhyphen"/>ctually celebrate the Paſſcover; and upon the morrow be<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:43962:11"/>the 15th day (and commonly called good <hi>Friday</hi>) was our firſt fruits waved by the Prieſts upon the Croſſe: So that the 16th day being the ſeventh day Sabbath, muſt un<g ref="char:EOLhyphen"/>avoidably begin the ſeven weeks, or fifty dayes; and this is eaſily known, that the ſame day which begins the account muſt needs end it, and be the true day of Pentecoſt.</p>
+               <p>Though this clear confeſſion from the Sabbaths adverſa<g ref="char:EOLhyphen"/>ries might ſuffice, yet through ſtrength from on high with demonſtrations of the ſpirit and power, I ſhall further pro<g ref="char:EOLhyphen"/>duce three infallible proofs that the Apoſtles Pentecoſt was none other then the ſanctified ſeventh-day Sabbath: And this will be evident by Gods inſtitution of a Feaſt, for he aſſigned a certain day, from which the number of fifty dayes began;
+<note place="margin">
+                     <hi>That Chriſt was punctuall in time,</hi> ſee <hi>Mat.</hi> 27.55, 56. <hi>Luke</hi> 22.35. <hi>John</hi> 8.20.</note> and this day was the morrow of (or after) a cer<g ref="char:EOLhyphen"/>tain Sabbath, which muſt be punctually fulfilled in and by Chriſt, as well in the <hi>Time</hi> as in the Type, or elſe why was the time ſo preciſely appointed, and the fifty days ſo exact<g ref="char:EOLhyphen"/>ly to be numbred?</p>
+               <p>The morrow after this certain Sabbath will be readily known.</p>
+               <p>Firſt, by the ſickles firſt entring the Corne, <hi>Deut.</hi> 16.9.</p>
+               <p>Secondly, by the waving of the firſt fruits, <hi>Lev.</hi> 23.11.</p>
+               <p>Thirdly, by offering the ſame day a Lamb without ſpot, <hi>Lev.</hi> 23.12.</p>
+               <p>The time when theſe ſhadows were all punctually fulfil<g ref="char:EOLhyphen"/>led in Chriſt the body is abundantly manifeſt. And firſt, the certain day when the the ſickle was firſt put to him,
+<note place="margin">
+                     <hi>Iſai.</hi> 53.8.</note> to cut him downe, the whole world knows to be that they call good <hi>Friday,</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 23.54, 55, 56.</note> that is the ſixth day of the week, <hi>The day of the preparation before the 7th day Sabbath,</hi> from which ſixth day Gods account of the ſeven weeks begun by his appoint<g ref="char:EOLhyphen"/>ment, <hi>Deut.</hi> 16.9. <hi>Seven weeks ſhalt thou number unto thee, be<g ref="char:EOLhyphen"/>gin to number the ſeven weeks from ſuch time as thou beginneſt to put the ſickle to the Corne.</hi> Is it poſſible for any truth to ſhine more clearly? Now either Mr. <hi>Jeniſon</hi> muſt deny (what he grants, <hi>pag.</hi> 38.) That <hi>Chriſt was by the ſickle of death cut down,</hi> (upon the ſixth day of the week) or elſe he muſt give glory to God by beginning to number the fifty dayes or 7 weeks,
+<pb n="21" facs="tcp:43962:11"/>from that time the ſickle firſt entred our corn, and cut him down by death, from which day the holy Sabbath is the very firſt of the account, and at the end of ſeven full weeks, the ſame bleſſed ſeventh day Sabbath that began, muſt needs end the fifty daies exactly upon the Apoſtles Pentecoſt,
+<note place="margin">
+                     <hi>Heb.</hi> 10.1.</note> although <hi>the Law was not the very image of good things to come,</hi> yet certainly this Sickle was a notable ſha<g ref="char:EOLhyphen"/>dow in many particulars.</p>
+               <p n="1">1. It was put to the corn, <hi>Deut.</hi> 16.9. which the Jews per<g ref="char:EOLhyphen"/>formed the night following the Paſſeover, with great ſo<g ref="char:EOLhyphen"/>lemnity; and juſt ſo was it fulfilled in Chriſt, <hi>Ioh.</hi> 18.3.</p>
+               <p n="2">2. They were to cut down <hi>green ears, Lev.</hi> 2.14.
+<note place="margin">
+                     <hi>Hoſ.</hi> 14.3.</note> And even ſo our Saviour expounds himſelf the very day of his ſuffer<g ref="char:EOLhyphen"/>ing, <hi>Luke</hi> 23.31. when our green fir-tree was cut down.</p>
+               <p n="3">3. The green corn was bound, (as the Hebrew ſignifies, <hi>Lev.</hi> 23.10.) and brought to the Prieſts, and ſo was our green plant, <hi>Ioh.</hi> 18.12, 13.</p>
+               <p n="4">4. The green corn was to be dried by the fire, <hi>Lev.</hi> 2.14. neither was this wanting to our firſt fruits, <hi>Luk.</hi> 22.54, 55.</p>
+               <p n="5">5. It was to be beaten out of full ears, <hi>Lev.</hi> 2.14. and juſt ſo was our Saviour ſerved, (at full age) <hi>Matth.</hi> 26.67, 68. and 27.26.30. After the firſt fruits were thus fitted, (as the Engliſh Annotations ſhew, on <hi>Levit.</hi> 23.10.) they were upon the morrow of that Sabbath to be waved by the Prieſt, <hi>Lev.</hi> 23.11. And this is the ſecond infallible token what that Sabbath was, namely, the Paſſeover, on the morrow of which Sabbath it was exactly accompliſhed in Chriſt, by the crucifying Prieſt, who waved him between heaven and earth upon the ſixth day of the week, from which day began the count of the Apoſtles Pentecoſt, pun<g ref="char:EOLhyphen"/>ctually beginning and ending upon the ſeventh day Sab<g ref="char:EOLhyphen"/>bath.</p>
+               <p>The third infallible mark by which that Sabbath (<hi>Lev.</hi> 23.11, 15.) is more then fully found, was the Lamb with<g ref="char:EOLhyphen"/>out ſpot, appointed to be offered the very ſame morrow of the Sabbath, but this was ſuch an infallible token to know the undoubted day wherein it was accompliſhed in Chriſt, that Mr. <hi>Jeuniſon</hi> hath wholly (and I doubt deceitfully) o<g ref="char:EOLhyphen"/>mitted
+<pb n="22" facs="tcp:43962:12"/>it. And indeed it is impoſſible that any thing but wilful blindneſs ſhould obſcure the glory and ſtupendious eminency of that ſixth day of the week, whereon <hi>our Lamb without ſpot or blemiſh</hi> was offered,
+<note place="margin">
+                     <hi>Heb.</hi> 9.14. 1 <hi>Pet.</hi> 1.19.</note> from which ſixth day begun the account of the Apoſtles Pentecoſt, and as it be<g ref="char:EOLhyphen"/>gan, ſo it exactly ended on the ſeventh day Sabbath, to its everlaſting glory, and the glory of him that ſanctified it, God bleſſed for ever, <hi>Amen.</hi>
+               </p>
+               <p>And thus while Mr. <hi>Jenniſon</hi> and his Informers affirm, (without one word of Scripture) that the Sabbath from whence our reckoning ariſes, (<hi>Lev.</hi> 23.11, 15.) was the Jews weekly ſeventh day Sabbath: I affirm, (with the moſt learned of this Age) that it was not the weekly Sabbath, but the firſt day of the Paſſeover Feaſt; and I have fully proved by three infallible Scripture marks, that the fifty dayes did at the death of our Redeemer, moſt exactly be<g ref="char:EOLhyphen"/>gin and end upon the ſeventh day Sabbath.</p>
+               <p>Why bleſſed be Jehovah the Inſtitutor of this Sabbath, and glorified be Jeſus the profeſſed Lord of this Sabbath, and for ever honoured be that excellent ſpirit, who at the Apoſtles Pentecoſt, moſt wonderfully owned and approved this ſame ſeventh day Sabbath, as hath been convincingly proved by</p>
+               <p n="1">1. The Sickles firſt entring our Corn.</p>
+               <p n="2">2. The waving of our ſheaf of firſt fruits, and</p>
+               <p n="3">3. The offering of our Lamb without ſpot.</p>
+               <p>And now unleſs Mr. <hi>Jenniſon</hi> can confute this precious point, (which I am ſure is utterly impoſſible) I muſt expect the ſpeedy performance of his promiſe,
+<note place="margin">
+                     <hi>Laſh. p.</hi> 3. <hi>&amp;</hi> 11, 12.</note> to own and im<g ref="char:EOLhyphen"/>brace <hi>this glorious day on which the Apoſtles Pentecost fell, as the very day which ye did, and ought to keep as their Sabbath.</hi> And I ſhall for ever acquit him of all the abuſes in his book, and eſteem it abundant ſatisfaction to ſee a ſinner return from the error of his way.
+<note place="margin">
+                     <hi>Jam.</hi> 5.20.</note> 
+                  <hi>Amen.</hi>
+               </p>
+               <p>As touching the ſecond part of Mr. <hi>Ienniſons</hi> Laſh, con<g ref="char:EOLhyphen"/>cerning Baptiſme, he muſt excuſe me if I deem it a diſho<g ref="char:EOLhyphen"/>nour to that flouriſhing truth, to contend with him, after ſo many learned debates of perſons with whom neither of
+<pb n="23" facs="tcp:43962:12"/>us may compare, much leſs conceit to exceed.</p>
+               <p>The Covenant made to litteral <hi>Iſrael,</hi> which he would have to be one with myſtical <hi>Iſrael,</hi> do exceedingly differ. As;</p>
+               <p n="1">1. In the Mediator, <hi>Gal.</hi> 3.19.</p>
+               <p>The ſervant being veiled, 2 <hi>Cor.</hi> 3.13.</p>
+               <p>The Son revealed, <hi>Mat.</hi> 17.5. 2 <hi>Cor.</hi> 3.18. <hi>Ioh.</hi> 1.14.</p>
+               <p n="2">2. In the parties taken into Covenant.</p>
+               <p>In the Type a fleſhly ſeed, <hi>Gen.</hi> 17.7, 13.</p>
+               <p>In the truth a faithful ſeed, <hi>Gal.</hi> 3.9, 29. <hi>Rev.</hi> 12.17.</p>
+               <p>Then not in Covenant, till firſt they were <hi>Abrahams,</hi> now not in Covenant, till firſt they be Chriſts.</p>
+               <p n="3">3. There's difference in the Sign.</p>
+               <p>The ſhadow ſigned the outward man, <hi>Gen.</hi> 17.10, 11.</p>
+               <p>The truth ſigns the inner man, <hi>Rom.</hi> 2.28, 29. <hi>Eph.</hi> 1.13, 14.</p>
+               <p n="4">4. In the Sacrifice:</p>
+               <p>The Type Carnal, <hi>Heb.</hi> 9.10.</p>
+               <p>The Truth Spiritual, 1 <hi>Pet.</hi> 2.5.</p>
+               <p>The Type dead, <hi>Heb.</hi> 10.1, 4, 5.</p>
+               <p>The Truth living, <hi>Rom.</hi> 12.1, 2.</p>
+               <p n="5">5. In the Inheritance:</p>
+               <p>The Type Temporal, <hi>Deut.</hi> 4.21, 38. <hi>Ier.</hi> 11.3, 5.</p>
+               <p>The Truth Eternal, <hi>Heb.</hi> 9.15. 1 <hi>Pet.</hi> 1.4.</p>
+               <p>His conceits upon 1 <hi>Cor.</hi> 10.1, 2, 3.
+<note place="margin">
+                     <hi>Laſh. p.</hi> 61.</note> pleads as much for Infant Communion, as for Infant Baptiſme, neither of which is found in Chriſts Houſe.</p>
+               <p>That of 1 <hi>Cor.</hi> 7.14.
+<note place="margin">
+                     <hi>p.</hi> 64.</note> tells you the unbelieving wife is ſan<g ref="char:EOLhyphen"/>ctified to the husband, and ſo are the children.</p>
+               <p>Mr.
+<note place="margin">
+                     <hi>p.</hi> 66. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Ienniſon</hi> at length grants that he can none other way help Babes to Baptiſme, but by conſequence; and becauſe he confeſſeth <hi>William Ienniſon</hi> cannot prove his intereſt in Chriſt, but by conſequence; he judges the ſame of <hi>Tho.
+<note place="margin">
+                        <hi>p.</hi> 69.</note> Til<g ref="char:EOLhyphen"/>lam,</hi> who through diſtinguiſhing grace hath a fairer evi<g ref="char:EOLhyphen"/>dence then a bare conſequence;
+<note place="margin">
+                     <hi>Rom.</hi> 8.16. <hi>Eph</hi> 1.13. 1 <hi>Cor.</hi> 2.14.</note> 
+                  <hi>the Spirit it ſelf bearing wit<g ref="char:EOLhyphen"/>neſs with his ſpirit, that he is the Child of God.</hi>
+               </p>
+               <p>When Scripture fails for Baby-Baptiſme, Mr. <hi>Ienniſon</hi> fetches an argument from the Turk and the Devil;
+<note place="margin">
+                     <hi>Laſh. p.</hi> 73. <hi>p.</hi> 74.</note> but I ſhall not travel into their Regions to diſprove him.</p>
+               <pb n="24" facs="tcp:43962:13"/>
+               <p>They that now cenſure dipping of Diſciples, as immo<g ref="char:EOLhyphen"/>deſt and dangerous, would much more have cried out up<g ref="char:EOLhyphen"/>on the circumciſion of mens privy parts.</p>
+               <p>But I ſhall ceaſe to contend about a point ſo fully con<g ref="char:EOLhyphen"/>troverted and cleared, expecting a fair and ſpeedy ſubmiſ<g ref="char:EOLhyphen"/>ſion to that Chriſtian Sabbath whereon the Apoſtle Pente<g ref="char:EOLhyphen"/>coſt was celebrated, recording to his full confeſſion, where<g ref="char:EOLhyphen"/>with I ſhall conclude, <hi>That the day of the first New Testament Church its meeting, and that wherein the Lord ſo highly bleſſed them,
+<note place="margin">
+                        <hi>Laſh. p.</hi> 12. <hi>&amp;</hi> 3.</note> is that glorious day which the Saints did, and ought to keep as their Sabbath.</hi> Amen.</p>
+               <trailer>THE END.</trailer>
+               <pb facs="tcp:43962:13"/>
+               <pb n="24" facs="tcp:43962:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:43962:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="22" facs="tcp:43962:15"/>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <p>As to the Lady <hi>Abergavenny</hi> mentioned in my Infor<g ref="char:EOLhyphen"/>mation, I have this to add further, that I do very well remember, that at the time when the five Jeſuits were to be hanged, drawn and quartered, the ſaid Lady came to the Portugal Ambaſſador, and made a moſt dreadful Complaint to his Excellency, to this Effect, how that we were all ruined, if the ſaid five Jeſuits ſhould ſuffer, for to be ſure that the next man that ſhould die would be Sir <hi>George Wakeman,</hi> in regard the five Jeſuits were con<g ref="char:EOLhyphen"/>demned upon the ſame Fact, that Sir <hi>George Wakeman</hi> was guilty of, therefore I deſire your Lordſhip by all means to ſee if your Lordſhip can find any way to prevent the Death of thoſe <hi>Jeſuits.</hi>
+            </p>
+            <p>Upon which my Lord made anſwer to the ſaid Lady, that he could not Imagine or Find out any way to ſave their Lives, but that they muſt die, for ſaid he, we have uſed all our Endeavours, and made all the Intereſt vve can, and it vvill not be grant<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Then the ſaid Lady made anſvver to my Lord, that then Sir. <hi>George Wakeman</hi> vvould have his Tryal, and vvould be condemned and ſuffer, and then all our Plot vvill be diſcovered.</p>
+            <p>My Lord made anſwer in theſe vvords, No <hi>Madam,</hi> vve vvill ſeek to prevent his Death by ſome Friend that vve ſhall make.</p>
+            <p>Upon vvhich my Lady <hi>Abergavenny</hi> took her leave of my Lord: I <hi>Franciſco de Faria</hi> vvas Interpreter betvveen them both.</p>
+            <p>Thus far I have followed the Series of Relation with<g ref="char:EOLhyphen"/>out interruption, as being Occurances that happend and de<g ref="char:EOLhyphen"/>pended one upon another.</p>
+            <p>I am now to repeat ſome paſſages which as they come to my Knowledge upon Various occaſions, and at Several
+<pb n="23" facs="tcp:43962:15"/>times, require not to be ſo punctually diſpoſed in order as being compleat within themſelves.</p>
+            <p>In <hi>January</hi> or <hi>Febuary</hi> 1678/9. A Letter vvas ſent into <hi>Portugal</hi> by a <hi>Capuchin,</hi> belonging to the Queens Chappel at <hi>Somerſet Houſe,</hi> call'd by the name of <hi>Paulenio,</hi> to a Friend of his at <hi>Liſbon,</hi> the Letter Containd Words to this E<g ref="char:EOLhyphen"/>fect.</p>
+            <p>Our affaires are very well in <hi>London,</hi> vvhere I hope in a little time there vvill be a great alteration, and our buſineſs vvill be at an end in a ſhort time, ſo that I hope this place vvill all become <hi>Catholicks.</hi>
+            </p>
+            <p>The Gentleman that received the Letter in <hi>Liſbon,</hi> ſhewed it to a Friend of his that vvas an <hi>Engliſh Man,</hi> vvho by that time had intelligence of the Diſcovery of the Plot in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that Gentle-Man vvrites over immediately from <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> to a Friend of his in <hi>London</hi> vvhat he had heard by a Letter from a <hi>Capuchin</hi> of <hi>Somerſet-Houſe,</hi> upon vvhich the ſaid Gentleman vvent to the King and Counſel; and declar<g ref="char:EOLhyphen"/>ed vvhat <hi>Newes</hi> his Friend had ſent him out of <hi>Portugal:</hi> preſently the King and Counſel cauſed the Queens <hi>Confeſſor</hi> to be called, and to be Examined, vvho at that time deny<g ref="char:EOLhyphen"/>ed all, proteſted his Innocency, that he never vvrote any ſuch Letter, vvhereupon the King and Counſel diſcharged him, but that very Night there vvas private Intelligence given to the ſaid Father <hi>Paulenio</hi> upon vvhich he Immediate<g ref="char:EOLhyphen"/>ly made his Eſcape for <hi>Flanders,</hi> vvhere he ſtaid till the <hi>Por<g ref="char:EOLhyphen"/>tugaal</hi> Ambaſſador arrived in the <hi>Downs</hi> in his paſſage home<g ref="char:EOLhyphen"/>vvards, vvhom he then met and Embarqued vvith him for <hi>Portugal,</hi> in the <hi>Ruby</hi> Frigat, under the Command of Cap<g ref="char:EOLhyphen"/>tain <hi>Allum.</hi>
+            </p>
+            <p>And novv that the World may ſee, hovv this <hi>Popiſh</hi> Plot vvas carryed one by General <hi>Contributions</hi> and Collected <hi>Maintenances,</hi> either out of <hi>Devotion</hi> or <hi>Fear,</hi> I vvill add one <hi>Certainty</hi> more, vvhich is this, that vvhile I vvas <hi>Em<g ref="char:EOLhyphen"/>ployed</hi> in the <hi>ſervice</hi> of the ſaid <hi>Ambaſſador,</hi> I vvas intruſt<g ref="char:EOLhyphen"/>ed
+<pb n="24" facs="tcp:43962:16" rendition="simple:additions"/>among other things, to pay to Mr. <hi>Anderſon, Alias Mun<g ref="char:EOLhyphen"/>ſon,</hi> a Secular <hi>Prieſt,</hi> then a Priſoner in the <hi>Kings Bench</hi> upon the account of the Plot, fifty Shillings a Month, which money I Conſtantly paid to his Siſter, Mrs. <hi>Barbara Temp<g ref="char:EOLhyphen"/>eſt,</hi> Living in <hi>Holborn</hi> near the <hi>Kings Gate,</hi> during the whole time of the Ambaſſadors Reſidence in <hi>England.</hi> One day I took the boldneſs to ask his Excellency why he gave that Allowance to the ſaid <hi>Monſon,</hi> to which he was pleaſ<g ref="char:EOLhyphen"/>ed to anſwer, becauſe he had been his <hi>Chaplaine</hi> fifteen Years before, when he was but <hi>Envoy Extraordinary</hi> to the King of <hi>England</hi> from the King of <hi>Portugal,</hi> to which when I reply<g ref="char:EOLhyphen"/>ed, that I ſuppoſed his Excellency did not allow it him for that reaſon only, but that I belived he was concerned in the Plot, his Excellency returned this Anſwer, why <hi>Francis</hi> do you think that if you were taken upon Suſpicion, that I and all of us were not bound to aſſiſt you with our Lives and Fortunes, as we do particularly this Mr. <hi>Munſon,</hi> and all others in his Condition, leſt they ſhould diſcover the Plot? And at the ſame time among the reſt of the Contributors, his Excellency named the Lady <hi>Penalua,</hi> Siſter to <hi>Don Franciſo de Melo,</hi> who died Ambaſſador in Or<g ref="char:EOLhyphen"/>dinary in <hi>England,</hi> in the Year 1678.</p>
+            <p>A certain Sign that the Ambaſſador was deeply concern<g ref="char:EOLhyphen"/>ed, who was ſo profuſe of his Life and Fortune, to Stran<g ref="char:EOLhyphen"/>gers in a <hi>Forreign Country,</hi> where if it had been otherwiſe neither his Life nor his Fortune had been in the leaſt dan<g ref="char:EOLhyphen"/>ger or Jeopardy.</p>
+         </div>
+         <div type="part">
+            <pb n="25" facs="tcp:43962:16" rendition="simple:additions"/>
+            <head>
+               <hi>The further</hi> INFORMATION <hi>of</hi> Franciſ<g ref="char:EOLhyphen"/>co de Faria <hi>upon Oath before me</hi> Edmund Warcupp <hi>
+                  <abbr>Eſq</abbr>
+                  <note place="margin">
+                     <hi>Mid.</hi> and <hi>Weſt.</hi>
+                  </note> one of his Majeſties Juſtices of the Peace in the ſaid County and City, this Day of</hi> December, 1680.</head>
+            <p>THis Informant being duely Sworn and Examined, ſaith, that in the Month of <hi>July</hi> 1679, when Sir <hi>George Wakeman</hi> Baronet, <hi>William Marſhal</hi> and <hi>William Rumley,</hi> Gentlemen; and <hi>James Corker</hi> the Prieſt were Try<g ref="char:EOLhyphen"/>ed in the <hi>Old Bayly,</hi> he employed one Mr. <hi>Cooper</hi> by Order of his Maſter <hi>Gaſper de Abreu de Frietas,</hi> Ambaſſador in Or<g ref="char:EOLhyphen"/>dinary from the Crown of <hi>Portugal,</hi> to take in Writing the ſaid Tryals, which he did; and the ſaid Trials were tran<g ref="char:EOLhyphen"/>ſcribed, and afterwards read and interpreted unto the ſaid Ambaſſador, who ſeemed to be exceedingly diſpleaſed with Mr. <hi>Marſhal</hi> for ſo over-doing his Defence, in regard ſaid he, the ſaid Mr. <hi>Marſhal</hi> was well aſſured before hand, he ſhould not be Condemn'd, and in theſe long Speeches, ſaid he, he hath too much reflected on the Innocency of them that had already Suffered, and took too much No, tice of the Blood already ſhed, by which he endanger'd the ſpoiling of the whole Buſineſs, by exaſperating the Court and Jury againſt them all.</p>
+            <p>That ſome time after the ſaid Trials, there was a report about the Court and City, that Articles were coming out againſt the Lord Chief Juſtice <hi>Scroggs,</hi> upon which the ſaid Ambaſſador told this Informant, he would give fifty Guinneys to have a Copy of them before they were made publick.</p>
+            <p>That ſome time before, the Ambaſſador acquainted this Informant, that he intended to ſend to <hi>Portugal</hi> for his
+<pb n="26" facs="tcp:43962:17" rendition="simple:additions"/>Lady, and that this Informant ſhould be her Gentleman Uſher, and alſo continue in his preſent Capacity of <hi>Secre<g ref="char:EOLhyphen"/>tary</hi> and <hi>Interpreter.</hi>
+            </p>
+            <p>That the ſaid Ambaſſador did in order thereto furniſh his Houſe, and one Day, being very intent upon Work Men, who were putting up ſome <hi>Tapeſtry Hangings,</hi> a very large Pacquet of Letters was brought his Excellency by Doctor <hi>Mendex,</hi> one of the Queens Majeſties Phyſitians, which he had no ſooner read, but he acquainted this Informant, that he muſt forthwith go for <hi>Portugal,</hi> to which this Informant anſwered, that he much wondred at it, and was not a little ſurpriſed to hear it eſpecially, in regard that his Excellen<g ref="char:EOLhyphen"/>cy being Ambaſſador in Ordinary, muſt then leave the Ambaſſadage Extraordinary behind him, a thing unuſual. But his Excellency anſwered this Informant, that he muſt go, and that immediately, and would leave Orders to ſell his Coach and Horſes, and other things after he was gone. This Informant ſtill preſſing the Reaſons of ſo ſudden a Departure, was by the ſaid Ambaſſador anſwered, that o<g ref="char:EOLhyphen"/>therwiſe he thought he ſhould be called before the King and Counſel, upon the Lord <hi>Scroggs</hi> his account, and ad<g ref="char:EOLhyphen"/>ded, <hi>Francis,</hi> you muſt then go alſo, but I charge you not to ſay, that you went to the ſaid Lord <hi>Scroggs</hi> from me, that <hi>Fryday</hi> on which Sir <hi>George Wakeman</hi> was Tried, but that you went on your own head, and that you went to him from me on the <hi>Saturday</hi> after only, for God above knows, what we do is for the <hi>Catholick Cauſe,</hi> and that God below (pointing to his Chappel, which was under his Chamber, in which we then were) will pardon us, and juſtify us in what we do. At which time there being a remour that the Earl of <hi>Offory</hi> was to go for <hi>Madrid,</hi> to complement that King upon his Marriage, and that he would Embarque for <hi>Liſbon,</hi> and go thence by Land to <hi>Madrid,</hi> the Ambaſſador ſaid he would go with him.
+<pb n="27" facs="tcp:43962:17"/>But he then again further charged this Informant to ſay, if he ſhould happen to be examined before the Council, that the Ambaſſador ſent him, and went himſelf to the Lord Chief Juſtice <hi>Scroggs</hi> by a Miſtake, as looking on him to be a publick Miniſter of State. Whereupon this Informant having alwayes great Freedom of Diſcourſe with the ſaid Ambaſſador, asked his Lordſhip his reaſons, and why his Lordſhip did direct him to ſay in that man<g ref="char:EOLhyphen"/>ner touching the Lord Chief Juſtice <hi>Scroggs,</hi> and his Lord<g ref="char:EOLhyphen"/>ſhip thereupon anſwered him in the <hi>Portugueſe</hi> Language with a Proverb of that Countrey, in theſe words, <hi>Chenes muy curioſo, novive muto,</hi> which in <hi>Engliſh</hi> is, <hi>He that is overcurious never liveth long.</hi> Whereupon this Informant thought fit to forbear any further Queſtions in that Matter, promiſing to obey his Lordſhips Command about the ſaid Lord Chief Juſtice <hi>Scroggs.</hi>
+            </p>
+            <p>And this Informant ſaith, that he well remembers, that this Diſcourſe was on the laſt Lord Mayors Day was twelve Months.</p>
+            <p>And this Informant ſaith, that at the time when his Ma<g ref="char:EOLhyphen"/>jeſty was ill at <hi>Windſor,</hi> this Informant being in Diſcourſe with the ſaid Ambaſſador, did ask his Lordſhip what ſhould be done with the Queen in Caſe his Majeſty ſhould then die, which God forbid he ſhould, who anſwered, that ſo ſoon as his Majeſties Eyes were cloſed, the Marqueſs de <hi>Aronches</hi> Extraordinary Ambaſſador, or elſe himſelf would immediately go with her Majeſty to <hi>Calais,</hi> and her Ma<g ref="char:EOLhyphen"/>jeſty being by one of them thus ſecured, the other ſhould ſtay here, and then <hi>England</hi> ſhould be treated with, to re<g ref="char:EOLhyphen"/>ſtore <hi>Tangeir,</hi> and the reſt of her Majeſties Dowry, vvhich he ſaid was the reaſon that two Ambaſſadors were here at one time, for ſaid he, ſhould the King die, the Queen would be impriſoned and puniſhed, or made a Slave in <hi>England,</hi> and we come not hither (to repeat his own words) <hi>Nos non vimus para enſilar perlos,</hi> to thread Pearl, but to take care of her Safety. <hi>Frantiſco de Faria.</hi>
+            </p>
+            <pb n="28" facs="tcp:43962:18" rendition="simple:additions"/>
+            <p>And this Informant further ſaith, That the Am<g ref="char:EOLhyphen"/>baſſador one day asked him if he knew <hi>Dugdale.</hi> To which he anſwered, That he knew none of the Wit<g ref="char:EOLhyphen"/>neſſes. Then the Ambaſſador ſaid, <hi>Dugdale</hi> is a Rogue, becauſe he would not accept the money that was offered him by a Chambermaid; For if he had taken the money, he might have gon beyond Sea, and might there have lived happy, and been adored, for that our Church will forgive all that re<g ref="char:EOLhyphen"/>pent. The Ambaſſador further added at that time, that <hi>Burgomanero</hi> the <hi>Spaniſh Ambaſſador</hi> was a great Friend of the ſaid <hi>Chambermaids,</hi> and that the ſaid <hi>Burgomonero</hi> would be examined before the Council about that Matter, as he thought.</p>
+            <p>And this Informant further ſaith, That the Am<g ref="char:EOLhyphen"/>baſſador his Maſter, after he came home one night from Court, with great Joy ſaid, <hi>That Villain</hi> Shafts<g ref="char:EOLhyphen"/>bury <hi>is put out of the Council, and now we muſt have his Blood;</hi> calling this Informant <hi>Dunce</hi> and <hi>Blockhead,</hi> that he ſhould be at <hi>White-Hall</hi> and not hear it before.</p>
+            <p>And this Informant further ſaith, That at one other time, diſcourſing of Mr. <hi>Coleman</hi> that was Ex<g ref="char:EOLhyphen"/>ecuted, he ſaid, <hi>If ever any Man was Guilty that died,</hi> Coleman <hi>was, and therefore could not ever be Canonized for a Saint becauſe of the Guilt, but he might be Abſolved.</hi>
+            </p>
+            <p>And this Informant further ſaith, That at the time when the Duke of <hi>Monmouths</hi> Cook accuſed Seg<g ref="char:EOLhyphen"/>nior <hi>Antonio Farnandez,</hi> belonging to the Queens Con<g ref="char:EOLhyphen"/>feſſor, for ſomwhat ſaid by him or to him about the four Ruffians at <hi>Windſor,</hi> after he had given direct<g ref="char:EOLhyphen"/>ions to one of the <hi>Hhrbingers</hi> to provide Lodging for four <hi>Iriſh</hi> Gentlemen, for which as this Informant beleives the ſaid <hi>Antonio Fernandez</hi> was impriſoned in <hi>Newgate,</hi> and to be tryed at <hi>Weſtminſter</hi> before the
+<pb n="29" facs="tcp:43962:18" rendition="simple:additions"/>Lord Chief Juſtice <hi>Scroggs,</hi> as this Informant heard, but he being out upon Bayl, he came to vvait upon the Ambaſſador, who ask him whether or no he had ſpoken to any of the four <hi>Iriſh</hi> Gentlemen at <hi>Windſor,</hi> who replyed, yes, he had to one of them, but he was ſure the Rogue, the Cook that had accuſed him, could not hear him direct the ſaid Perſon to ſee him at Night, to which the Ambaſſa<g ref="char:EOLhyphen"/>dor preſently replyed, <hi>Segnior Fernandez,</hi> you ſhall not be Canoniz'd or ſuffer Martordom this bout, for we have ta<g ref="char:EOLhyphen"/>ken care that nothing ſhall appear againſt you, which pro<g ref="char:EOLhyphen"/>ved true, the Ambaſſador giving this Informant a <hi>Guiney</hi> that day he was to be tryed, and he did attend at <hi>Weſtminiſter</hi> and there ſaw him in Court, and nothing did appear againſt him: and this Informant further ſayeth, that Dr. <hi>Mendez</hi> beforementioned, was once in the abſence of this Infor<g ref="char:EOLhyphen"/>mant Interpreter betwixt the ſaid Ambaſſador and the Lady <hi>Abergavenny,</hi> and that the ſaid Dr. <hi>Mendez</hi> about a Month after the ſaid <hi>Ambaſſador</hi> was gone for <hi>Portugal,</hi> was paſſing in his Coach by the Shop of one Mr. <hi>Phillips</hi> on <hi>Ludgate-Hill,</hi> where the ſaid <hi>Dr. Mendez</hi> eſpying this Informant, he took him into his Coach, and as they rode together, this Informant complained that the <hi>Ambaſſador</hi> was not ſo kind to him at his departure as he expected, adding, that he knew enough againſt the ſaid <hi>Ambaſſador,</hi> to ruine him, and ſhould he diſcover it, would hurt many in <hi>England,</hi> and the <hi>Dr.</hi> made anſwer, I hope you will be more honeſt than to diſcover any thing, and this Infor<g ref="char:EOLhyphen"/>mant believes, that if the ſaid <hi>Dr. Mendez</hi> were Examined he would own the ſame.</p>
+            <p>This Informant further ſayeth, that before the ſaid <hi>Am<g ref="char:EOLhyphen"/>baſſador</hi> went out of <hi>England,</hi> he this Informant having much trouble upon his Spirits ariſing from the Knowledge of the things he hath now diſcovered, to eaſe his Mind, did write down the Heads of the ſame in <hi>Por<g ref="char:EOLhyphen"/>tugueſe</hi> upon a Piece of Paper, and delivered the ſame to his Mother to lay up carefully for him, and more eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="30" facs="tcp:43962:19" rendition="simple:additions"/>what related to the Deſign againſt the <hi>Earl</hi> of <hi>Shaft<g ref="char:EOLhyphen"/>bury, Dr. Oats, and Mr. Bedlow</hi> and a Country Juſtice, which Paper was Svvorn unto in the Houſe of <hi>Peers</hi> on <hi>Fryday</hi> the 19th. of <hi>November,</hi> 1680.</p>
+            <closer>
+               <dateline>
+                  <hi>Sworn by Order of the Lords Committees for Exa<g ref="char:EOLhyphen"/>minations,</hi> &amp;c. <date>
+                     <hi>the</hi> 10th. <hi>of</hi> December, 1680.</date>
+               </dateline>
+               <signed>
+                  <hi>before me</hi> Edmund Warcupp, <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="31" facs="tcp:43962:19" rendition="simple:additions"/>
+            <head>
+               <hi>The following</hi> INFORMATION <hi>was delivered in the</hi> Spaniſh <hi>Language, fairly written by Mr.</hi> John Faria <hi>my Father, to his Majeſty and the Lords,</hi> Spiritual <hi>and</hi> Temporal <hi>in Parliament Aſſembled, who were pleaſed to Command Mr.</hi> William Blathwaite <hi>to Tranſlate the ſame into</hi> Eng<g ref="char:EOLhyphen"/>liſh, <hi>which was done, and the ſame Sworn un<g ref="char:EOLhyphen"/>to in the Lords Houſe, his Majeſty preſent, upon the</hi> 19th. <hi>Day of</hi> Nov. 1680.</head>
+            <p>THIS Informant ſayeth, that at the firſt Arrival of <hi>Gaſper de Abreu de Freitas,</hi> the laſt Ambaſſador in Ordinary from <hi>Portugal,</hi> at the Court of <hi>England,</hi> this Informant went to viſit him, as having had an old Acquaintance with the ſaid Ambaſſador, at the time when he was here before, in the Quality of Envoy extraordina<g ref="char:EOLhyphen"/>ry to his Maejeſty of <hi>Great Brittain</hi> (whom God preſerve) And the ſaid Ambaſſador asking the Informant about his Son <hi>Franciſco de Faria,</hi> whom he had a mind to make his Secretary of Languages, as being skilled in the <hi>Engliſh, French,</hi> and <hi>Portugeze</hi> Languages; whereupon this Infor<g ref="char:EOLhyphen"/>mant carryed his ſaid Son to the Ambaſſadors Houſe, and left him there to be his Interpreter, and this Informant continuing often to viſit the Ambaſſador, who uſed to complain much in his Diſcourſe of the great Perſecution, which he ſaid, the <hi>Roman Catholicks</hi> lay under in the King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and that all was occaſioned by Mr. <hi>Oats</hi> and <hi>Bedlow,</hi> who were baſe Rogues and Villains, and that for their having cauſed ſo great Miſchiefs, they deſerved to be killed, ſwearing by God, that he would take care
+<pb n="32" facs="tcp:43962:20" rendition="simple:additions"/>to have them killed; and this Informant hearing the Am<g ref="char:EOLhyphen"/>baſſador uſe at ſeveral times this Sort of Diſcourſe, this Informant told him (as he uſed to be very free with the Ambaſſador) That his Ambaſſy in <hi>England</hi> was about the affair of the Kingdom of <hi>Portugal,</hi> and that he needed not trouble himſelf with any Body elſe, and that he ſhould let the King of <hi>Englands</hi> Subjects live in Peace, to which the ſaid Ambaſſador replyed, that for thoſe great Miſchiefs thoſe Raſcals had brought upon the <hi>Roman Catholicks,</hi> they deſerved to be killed. And this Informant further ſayeth, that a Month or five Weeks before the ſaid Ambaſſador took leave of his Majeſty of <hi>Great Brittan,</hi> upon his Re<g ref="char:EOLhyphen"/>turn to <hi>Portugal,</hi> the aforeſaid <hi>Franciſco de Faria</hi> brought to the Houſe of this Informant ſome Papers belonging to his ſaid Son, that this Informant might keep them for him, and amongſt the reſt there was one which the Informant ſaw written with the Hand of the ſaid <hi>Franciſco de Faria,</hi> wherein were ſeveral Memorandums written in the <hi>Por<g ref="char:EOLhyphen"/>tugueſe</hi> Tongue, with the Names of <hi>Engliſh</hi> Perſons as may be ſeen by the ſaid Paper, which the ſaid <hi>Franciſco de Faria</hi> took away afterwards out of the Houſe of the ſaid Informant. And this Informant further ſayeth, that at that time when the Book made by Mr. <hi>Oats</hi> was publiſh<g ref="char:EOLhyphen"/>ed in <hi>French,</hi> being a Narrative of the Plot, the ſaid Am<g ref="char:EOLhyphen"/>baſſador ſent to buy one of them, which the Informant tranſlated and read out of the <hi>French</hi> into <hi>Portugueſe</hi> unto the Ambaſſador, who then ſpake verily angerly of Mr. <hi>Oats,</hi> and ſayed that the Jeſuits that had ſuffered died as Mar<g ref="char:EOLhyphen"/>tyrs; whereunto this Informant replyed, that if they were ſo Zealous of their Religion, it had been better for them to have exerciſed it in <hi>Flanders</hi> and in other Parts, ſince they well knew, that if they were found in <hi>England,</hi> they were to be puniſhed with Death, by the Laws of the Kingdom; and the Ambaſſador did alſo ſay that <hi>Coleman</hi> had ſuffered only
+<pb n="33" facs="tcp:43962:20"/>for endeavouring to bring the <hi>Roman Catholick</hi> Religi<g ref="char:EOLhyphen"/>on again into <hi>England;</hi> and the Informant alſo ſayeth, that the Paper annexed to which he has put his Hand is the ſame Paper of Memorandums before mentioned, which the ſaid <hi>Franciſco de Faria</hi> brought to the Houſe of this In<g ref="char:EOLhyphen"/>formant.</p>
+            <closer>
+               <salute>SIGNED</salute>
+               <signed>John de Faria</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>Tranſlated out of Portugueſe.</head>
+            <list>
+               <item>TO take care to Kill Oates.</item>
+               <item>To Kill Bedlow.</item>
+               <item>To take care to Kill Lord Shaftsbury.</item>
+               <item>To take care to Kill the Juſtice of Peace that lives in the Country.</item>
+               <item>A Complement to the Queens Doctor.</item>
+               <item>A Complement to the Lord Scroggs.</item>
+               <item>The Letter that I was to ſend to Flanders by a man.</item>
+               <pb n="34" facs="tcp:43962:21" rendition="simple:additions"/>
+               <item>About Friar Paulino, the Letter he wrote and ſent to Portugal.</item>
+               <item>About Madam Abergavenny and what ſhe ſaid to the Ambaſſador.</item>
+               <item>The Porter of Summerſet-Houſe.</item>
+               <item>To take care to Kill Oats and Bedlow.</item>
+               <item>To take care to Kill Lord Shaftsbury.</item>
+               <item>Madam Abergavenny what ſhe ſaid.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="35" facs="tcp:43962:21" rendition="simple:additions"/>
+            <head>
+               <hi>The following</hi> INFORMATION <hi>being Sworn unto at the ſame time, and the Matter therein contained relating to part of my</hi> Information <hi>in Page</hi> 29, <hi>I have with leave Inſerted it at the End of this my</hi> Information. Decem<g ref="char:EOLhyphen"/>ber 15th. 1680.</head>
+            <byline>Franciſco de Faria</byline>
+            <p>I <hi>Thomas Buſs</hi> of the Pariſh of St. <hi>Margerets Weſtmi<g ref="char:EOLhyphen"/>niſter,</hi> Cook and Servant to his Majeſty, in the Office of a Cook in his own Kitchin, as third Cook, called by the Name of <hi>Groom of the Kitchin,</hi> and being Maſter-Cook to their Graces the Duke and Dutcheſs of <hi>Monmouch,</hi> and in the Year of our Lord Chriſt 1678, when his Majeſty was then, in the Month of <hi>September,</hi> at <hi>Windſor,</hi> I the ſaid <hi>Thomas Buſs,</hi> then waiting on their Graces, as aboveſaid, was on the 13th. or 14th. of <hi>September,</hi> being on a <hi>Fryday,</hi> about ſeven of the Clock in the Morning to buy in ſuch Pro<g ref="char:EOLhyphen"/>viſions as was needful for his Graces Family, his Grace being then returned from the Battle of <hi>Montz,</hi> I by chance eſpyed Four of my Acquaintance talking together, <hi>viz.</hi> three <hi>Portugals,</hi> and one of them an <hi>Engliſh Man,</hi> and I having not ſeen the <hi>Engliſh Man</hi> of three or four Years be<g ref="char:EOLhyphen"/>fore, then Saluted him by the Name of Father <hi>Hankinſon,</hi> not knowing his Chriſtian Name, in theſe Words of Fa<g ref="char:EOLhyphen"/>ther <hi>Hankinſon,</hi> May I ſay by or to you, as God Almighty ſayd to the Devil, <hi>Whence came you?</hi> or how ſhall I ſay to you? for he and I being acquainted ever ſince her Ma<g ref="char:EOLhyphen"/>jeſties firſt Arrival into <hi>England</hi> at <hi>Portſmouth,</hi> he the ſaid <hi>Hankinſon</hi> made me no other Anſwer, but, <hi>You will never
+<pb n="36" facs="tcp:43962:22" rendition="simple:additions"/>leave your Old Drolling,</hi> but I having him by the Hand all this while, ſaid, Well then come prethee from whence came you indeed? <hi>Why I came from Italy,</hi> and then two of the three <hi>Portugals</hi> left him, and one <hi>Portugal</hi> with me, and did ask him (he ſaying he came from <hi>Italy</hi>) if he had brought over any <hi>Bulls</hi> or <hi>Pardons</hi> from <hi>his Holineſs</hi> the <hi>Pope,</hi> whereunto he did reply, <hi>You will never leave your drolling;</hi> and I did ask him when he arrived at the City of <hi>London,</hi> and then the other <hi>Portugal</hi> named <hi>Segnior Anthonio Fernandez</hi> turned from our Company over to the Fiſher<g ref="char:EOLhyphen"/>men that ſate in the Market, which was not above a yard and a half diſtance from the place where we two then ſtood ſtill talking, (their Majeſties both being then at the Caſtle of <hi>Windſor</hi>) I there ask't the ſaid Father <hi>Hankiſon</hi> if he did ar<g ref="char:EOLhyphen"/>rive at <hi>Windſor</hi> on the ſaid <hi>Wedenſday</hi> Night, or no, and he told me <hi>No, his Horſe did tire, and it was late, ſo he ſtayed in Town all Night, and came for</hi> Windſor <hi>on</hi> Thurſday <hi>the</hi> 13th. <hi>about four or five of the Clock in the</hi> Afternoon. Then I did ask of him, if he and I and three or four more of his old Ac<g ref="char:EOLhyphen"/>quaintance ſhould not drink together before his Depar<g ref="char:EOLhyphen"/>ture, for he was then in a travelling Poſture? He told me <hi>by no means, for he was in great haſt, for he was going about ten or twelve Miles to a Lords Houſe,</hi> naming the Lords Name to me, but truly I did forget his Lords Name, but he told me. <hi>If he could diſpatch betimes, to get to</hi> Windſor <hi>by four or five of the Clock in the Afternoon, then his other Acquaintances and I ſhould Drink together,</hi> and then the ſaid Father <hi>Han<g ref="char:EOLhyphen"/>kiſon</hi> called over to the aforeſaid <hi>Segnior Antonio Fernandez</hi> the <hi>Portugal</hi> aloud, and prayed him for Gods Sake to have a care of thoſe four worthy Gentlemen the Strangers, and then I hearing him tell me that he came from <hi>Italy,</hi> (thinking they might be four of the Gentlemen of <hi>Italy,</hi> come over to ſee the Court of <hi>England</hi>) ask't him, what theſe Gentlemen were? and he told me they were <hi>four Iriſh Gentlemen,</hi> and called to the afore mentioned <hi>Segnior
+<pb n="37" facs="tcp:43962:22"/>Antonio Fernandez,</hi> ſaying aloud as he did before, <hi>Segnior Antonio, Segnior Antonio, for Gods Sake have a great care of thoſe four Gentlemen, worthy Gentlemen, the</hi> Iriſh Men, <hi>for they will do our Buſineſs in the Grace of God;</hi> and the ſaid <hi>Segnior Antonio</hi> anſwered, <hi>And Grace of God I will have a great Care of them, in the Grace of God fear nothing.</hi> And ſo he the ſaid Father <hi>Hankiſon,</hi> being about to be gone, well ſaid I to him, if I ſhall ſee you no more, pray when do you leave <hi>England? Tomorrow.</hi> And then ſaid I, whether then? <hi>For Paris, and then for Italy again.</hi> And then I bid him re<g ref="char:EOLhyphen"/>member me to <hi>his Holineſs</hi> the <hi>Pope,</hi> at which he did laugh, and told me, <hi>you will never leave your Drolling,</hi> and ſo we parted, and have not ſeen each other never ſince, nor think<g ref="char:EOLhyphen"/>ing nothing of it more, till I reading <hi>Coleman's</hi> Papers, wherein I heard the Names of four <hi>Iriſh Ruffians</hi> named, ſhould kill his Majeſty, and I being his ſaid Sworn Servant and bound by my Oath as his Majeſties Servant, not to hear any Secret or publick Miſchief, nor Treaſon againſt his moſt Sacred Majeſty, but the ſame to reveal to ſome of his Majeſties Officers, the which I did by Name to Sir <hi>Steven Fox,</hi> and he did order me to acquaint the Commit<g ref="char:EOLhyphen"/>tee of Secrecy with it, and likewiſe I did acquaint Mr. <hi>Ver<g ref="char:EOLhyphen"/>non,</hi> as Secretary and Steward to their Graces, the Duke and Dutcheſs of <hi>Monmouth,</hi> and my Superior Officer in their Family, and he liked it very well, and told me he would inform ſome of the Committee of Secrecy of it, and ſo he did, and I went before them at <hi>Serjeants Inn</hi> in <hi>Fleet-Street,</hi> and they did like the Information very well, for then they did want ſome to ſecond Dr. <hi>Oats's</hi> Depoſitions, and at the Tryal of Councellor <hi>Langhorn,</hi> I was fetched by the under Sheriff from dreſſing their Graces Dinner, to give Evidence againſt the ſaid Priſoner at the Bar, the which Evidence was after Oath taken, highly approved on there, and this aforenamed <hi>Segnior Antonio Fernandez</hi> ſent for to the Court at the <hi>Old-Baily,</hi> by the Under-Sheriff with
+<pb n="38" facs="tcp:43962:23"/>to the Earl of <hi>Oſſory,</hi> to Speak to their Majeſties, that the ſaid <hi>Segnior Antonio Fernandez</hi> might be brought before the Court at the <hi>Old-Bayly,</hi> and he being brought before the Court, the Court ordered Sir <hi>George Jefferys,</hi> to take his Defence for himſelf, he making ſo weak a one, he then being the Recorder of <hi>London,</hi> ſent the ſaid <hi>Antonio</hi> by and with the Keepers to <hi>Newgate</hi> for the Matter of High Trea<g ref="char:EOLhyphen"/>ſon againſt his Majeſty, where he lay till the end of the next Term, and then was Bailed out, and I was bound by Sir <hi>George Jefferys</hi> to proſecute, and did Appear, on Sum<g ref="char:EOLhyphen"/>mons from <hi>Windfor</hi> at Sir <hi>George Wakemans</hi> Tryal, and ne<g ref="char:EOLhyphen"/>ver was once ſo much as called, nor a great many more, near ſeventeen or eighteen, and when the Court of Juſtice did riſe, I asked Dr. <hi>Oats</hi> whether he or the Court had a<g ref="char:EOLhyphen"/>ny other Buſineſs with me, and he told me no, ſo I return<g ref="char:EOLhyphen"/>ed to <hi>Windſor</hi> the ſame Night, and never heard more of it till this Seſſions of Parliament.</p>
+            <closer>
+               <signed>Thomas Buſs</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>
+               <hi>Sworn by Order of the Lords Committees for Examinations</hi> &amp;c. <hi>the</hi> 10th. <hi>of</hi> December 1680, <hi>before me.</hi>
+            </head>
+            <head type="sub">Edmund Warcupp. <hi>
+                  <abbr>Eſqu</abbr>
+               </hi>
+            </head>
+            <p>And now Reader give me leave to admire the Provi<g ref="char:EOLhyphen"/>dence of God, that I <hi>Franciſco de Faria</hi> ſhould be brought from almoſt the utmoſt Parts of the far diſtant habitable World to be an Inſtrument here in <hi>England</hi> to detect, or at leaſt more convincingly to prove the truth of thoſe Horrid Treaſons and Conſpiracies, that have been for ſo long time as wickedly denyed, as impiouſly perpetrated; but I am anſwered, when I conſider that the Judgements of God are <hi>Unſearchable,</hi> and that there is no <hi>Craft</hi> or <hi>Subtilty</hi> of Man, can hide or conceale thoſe Impieties, and foul Conſpiracies which God will bring to Light.</p>
+            <closer>
+               <signed>Franciſco de Faria.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43962:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
